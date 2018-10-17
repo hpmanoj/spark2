@@ -1,0 +1,9 @@
+{
+    "fields": [
+        { "name": "firstname", "type": "string" },
+        { "name": "secondname", "type": "string" },
+        { "name": "age", "type": "int" }
+    ],
+    "name": "namerecord",
+    "type": "record"
+}
