@@ -13,7 +13,7 @@ object rddOperations {
 
      println(distData.collect())
      
-     val textFile = sc.textFile("D://tools//github//spark//ImsVoLTE//src//main//resources//log4j.properties")
+     val textFile = sc.textFile("src//main//resources//log4j.properties")
      
      val count = textFile.count()
      val firstline = textFile.first()

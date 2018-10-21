@@ -1,0 +1,3309 @@
+"Narssarssuaq", 61.160517
+"Godthaab", 64.190922
+"Sondrestrom", 67.016969
+"Thule", 76.531203
+"Akureyri", 65.659994
+"Egilsstadir", 65.283333
+"Hofn", 64.295556
+"Husavik", 65.952328
+"Isafjordur", 66.058056
+"Keflavik", 63.985
+"Patreksfjordur", 65.555833
+"Reykjavik", 64.13
+"Siglufjordur", 66.133333
+"Vestmannaeyjar", 63.424303
+"Sault Sainte Marie", 46.485001
+"Winnipeg", 50.056389
+"Halifax", 44.639721
+"St. Anthony", 51.391944
+"Tofino", 49.082222
+"Pelly Bay", 68.534444
+"Baie Comeau", 49.1325
+"Bagotville", 48.330555
+"Baker Lake", 64.298889
+"Campbell River", 49.950832
+"Brandon", 49.91
+"Cambridge Bay", 69.108055
+"Nanaimo", 49.052333
+"Castlegar", 49.296389
+"Chatham", 47.007778
+"Charlo", 47.990833
+"Coppermine", 67.816667
+"Coronation", 52.075001
+"Chilliwack", 49.152779
+"Clyde River", 70.486111
+"Coral Harbour", 64.193333
+"Dawson", 64.043056
+"Burwash", 61.371111
+"Princeton", 49.468056
+"Deer Lake", 49.210833
+"Dease Lake", 58.422222
+"Dauphin", 51.100834
+"Dawson Creek", 55.742333
+"Edmonton", 53.309723
+"Eskimo Point", 61.094166
+"Estevan", 49.210278
+"Edson", 53.578888
+"Eureka", 79.994722
+"Inuvik", 68.304167
+"Iqaluit", 63.75639
+"Fredericton", 45.868889
+"Forestville", 48.746111
+"Flin Flon", 54.678055
+"Fort Resolution", 61.180832
+"Fort Simpson", 61.760153
+"Kingston", 44.225277
+"La Grande Riviere", 53.625278
+"Gaspe", 48.775278
+"Geraldton", 49.778332
+"Iles De La Madeleine", 47.424721
+"Hudson Bay", 52.816666
+"Dryden", 49.831667
+"Holman Island", 70.762778
+"Gjoa Haven", 68.635556
+"Hamilton", 43.173611
+"Montreal", 45.5175
+"Hay River", 60.839722
+"Halifax", 44.880833
+"Atikokan", 48.773888
+"Pond Inlet", 72.683334
+"St. Jean", 45.294445
+"Stephenville", 48.544167
+"Kamloops", 50.702222
+"Waterloo", 43.460833
+"Schefferville", 54.805278
+"Kindersley", 51.5175
+"Toronto", 43.862221
+"Chapleau", 47.82
+"Meadow Lake", 54.125278
+"Lloydminster", 53.309166
+"Alert", 82.517778
+"Kelowna", 49.956112
+"Mayo", 63.616389
+"Moose Jaw", 50.330278
+"Fort Mcmurray", 56.653333
+"Moosonee", 51.291111
+"Maniwaki", 46.272778
+"Montreal", 45.681944
+"Natashquan", 50.19
+"Gatineau", 45.521694
+"Matagami", 49.761667
+"Old Crow", 67.570556
+"Cold Lake", 54.404999
+"High Level", 58.621389
+"Ottawa", 45.3225
+"Prince Albert", 53.214167
+"Peace River", 56.226944
+"Portage-la-prairie", 49.903056
+"Pitt Meadows", 49.21611
+"Pickle Lake", 51.446388
+"Port Menier", 49.836389
+"Peterborough", 44.23
+"Prince Pupert", 54.28611
+"Fort Chipewyan", 58.767223
+"Muskoka", 44.974722
+"Quebec", 46.791111
+"Red Deer Industrial", 52.182222
+"Windsor", 42.275556
+"Watson Lake", 60.116389
+"Kenora", 49.788334
+"Lethbridge", 49.630278
+"Moncton", 46.112221
+"Comox", 49.710833
+"Regina", 50.431944
+"Thunder Bay", 48.371944
+"Grande Prairie", 55.179722
+"Yorkton", 51.264721
+"North Battleford", 52.769167
+"Gander", 48.936944
+"Sydney", 46.161388
+"Quesnel", 53.026112
+"Resolute", 74.716944
+"Riviere Du Loup", 47.764444
+"Roberval", 48.52
+"Rocky Mountain House", 52.429722
+"Rankin Inlet", 62.81139
+"Sudbury", 46.625
+"Sherbrooke", 45.438611
+"St. John", 45.316111
+"Fort Smith", 60.020278
+"Nanisivik", 72.982222
+"Summerside", 46.440556
+"Sachs Harbour", 71.993889
+"Cape Dorset", 64.23
+"Thompson", 55.801111
+"Trenton", 44.118889
+"Timmins", 48.569721
+"Toronto", 43.627499
+"Tuktoyaktuk", 69.433334
+"Montreal", 45.470556
+"Repulse Bay", 66.521389
+"Hall Beach", 68.776111
+"Rouyn", 48.206111
+"La Ronge", 55.15139
+"Vermillion", 53.355833
+"Broughton Island", 67.545833
+"Val D'or", 48.053333
+"Quujjuaq", 58.096111
+"Norman Wells", 65.281617
+"Vancouver", 49.193889
+"Buffalo Narrows", 55.841944
+"Wiarton", 44.745834
+"Petawawa", 45.952221
+"Winnipeg", 49.910036
+"Wabush", 52.921944
+"Williams Lake", 52.183056
+"Wrigley", 63.209444
+"Cranbrook", 49.612222
+"Edmonton", 53.5725
+"Saskatoon", 52.170834
+"Medicine Hat", 50.01889
+"Fort Saint John", 56.238056
+"Sioux Lookout", 50.113889
+"Pangnirtung", 66.145
+"Earlton", 47.695
+"Prince George", 53.889444
+"Terrace", 54.468508
+"London", 43.033056
+"Abbotsford", 49.025278
+"Whitehorse", 60.709553
+"North Bay", 46.363611
+"Calgary", 51.113888
+"Smithers", 54.824722
+"Fort Nelson", 58.836389
+"Penticton", 49.463056
+"Charlottetown", 46.290001
+"Spence Bay", 69.546667
+"Victoria", 48.646944
+"Lynn Lake", 56.863888
+"Swift Current", 50.291944
+"Churchill", 58.739167
+"Goose Bay", 53.319168
+"St. John's", 47.61861
+"Kapuskasing", 49.413889
+"Armstrong", 50.290279
+"Mont Joli", 48.608612
+"Toronto", 43.677223
+"Toronto", 43.7425
+"Gore Bay", 45.885277
+"Yellowknife", 62.462778
+"Slave Lake", 55.293056
+"Sandspit", 53.254333
+"Sarnia", 42.999444
+"Port Hardy", 50.680556
+"Whitecourt", 54.14389
+"Sept-iles", 50.223333
+"Teslin", 60.172779
+"Greenwood", 44.984444
+"Faro", 62.2075
+"Fort Mcpherson", 67.4075
+"Antwerp", 51.189444
+"Beauvechain", 50.75861
+"Kleine Brogel", 51.168333
+"Brussels", 50.901389
+"Bertrix", 49.891667
+"Charleroi", 50.459197
+"Chievres", 50.575833
+"Koksijde", 51.090278
+"Florennes", 50.243333
+"Kortrijk-vevelgem", 50.817222
+"Liege", 50.637417
+"Ostend", 51.198889
+"Zutendaal", 50.9475
+"Sint-truiden", 50.791944
+"St.-hubert", 50.035833
+"Ursel", 51.144133
+"Weelde", 51.394783
+"Zoersel", 51.264722
+"Bautzen", 51.193531
+"Altenburg", 50.981817
+"Dessau", 51.831828
+"Eisenhuettenstadt", 52.197333
+"Suhl", 51.308111
+"Muehlhausen", 51.363
+"Halle", 51.552
+"Riesa", 51.2935
+"Rechlin-laerz", 53.306417
+"Strausberg", 52.579978
+"Schoenhagen", 52.203258
+"Barth", 54.33754
+"Jena", 50.915161
+"Kyritz", 52.918833
+"Magdeburg", 52.073658
+"Rothenburg/ol", 51.363167
+"Anklam", 53.8327
+"Cottbus", 51.889475
+"Kamenz", 51.29625
+"Berlin", 52.380001
+"Dresden", 51.132767
+"Erfurt", 50.979811
+"Frankfurt", 50.026421
+"Munster", 52.134642
+"Hamburg", 53.630389
+"Berlin", 52.473025
+"Cologne", 50.865917
+"Duesseldorf", 51.289453
+"Munich", 48.353783
+"Nuernberg", 49.4987
+"Leipzig", 51.432447
+"Saarbruecken", 49.214553
+"Stuttgart", 48.689878
+"Berlin", 52.559686
+"Hannover", 52.461056
+"Bremen", 53.0475
+"Egelsbach", 49.960833
+"Hahn", 49.948672
+"Mannheim", 49.472706
+"Allendorf", 51.034878
+"Worms", 49.606511
+"Mainz", 49.968931
+"Eisenach", 50.992797
+"Siegerland", 50.707658
+"Hamburg", 53.535886
+"Kiel", 54.3795
+"Luebeck", 53.805367
+"Dahlemer Binz", 50.405888
+"Meinerzhagen", 51.099445
+"Arnsberg", 51.483333
+"Essen", 51.402333
+"Bielefeld", 51.964833
+"Moenchengladbach", 51.230356
+"Paderborn", 51.614089
+"Stadtlohn", 51.995844
+"Dortmund", 51.518314
+"Augsburg", 48.425158
+"Biberach", 48.111
+"Eggenfelden", 48.396167
+"Mindelheim", 48.108833
+"Oberpfaffenhofen", 48.081364
+"Straubing", 48.90095
+"Vilshofen", 48.635167
+"Leutkirch", 47.859117
+"Friedrichshafen", 47.671317
+"Parchim", 53.426997
+"Stendal", 52.627778
+"Aalen-heidenheim", 48.777833
+"Bayreuth", 49.984428
+"Burg Feuerstein", 49.793833
+"Hof", 50.288836
+"Hassfurt", 50.018
+"Koblenz", 50.3255
+"Trier", 49.8635
+"Speyer", 49.302776
+"Zweibruecken", 49.209525
+"Donaueschingen", 47.973331
+"Freiburg", 48.022653
+"Mengen", 48.053833
+"Schwaebisch Hall", 49.118317
+"Soest", 51.6075
+"Braunschweig", 52.319167
+"Kassel", 51.408394
+"Hildesheim", 52.179833
+"Bremerhaven", 53.507081
+"Emden", 53.391186
+"Leer", 53.271592
+"Wilhelmshaven", 53.504833
+"Borkum", 53.5955
+"Norderney", 53.706822
+"Flensburg", 54.771772
+"Rendsburg", 54.220928
+"Westerland", 54.91325
+"Armari Air Force Base", 59.260286
+"Kardla", 58.990756
+"Kuressaare", 58.229883
+"Parnu", 58.419044
+"Tallinn-ulemiste International", 59.413317
+"Tartu", 58.307461
+"Enontekio", 68.362586
+"Eura", 61.116112
+"Halli", 61.85605
+"Helsinki", 60.254558
+"Helsinki", 60.317222
+"Hameenkyro", 61.689656
+"Hanko", 59.848864
+"Hyvinkaa", 60.654444
+"Kikala", 60.462502
+"Immola", 61.249172
+"Kitee", 62.166111
+"Ivalo", 68.607269
+"Joensuu", 62.662906
+"Jyvaskyla", 62.399453
+"Kauhava", 63.127078
+"Kemi", 65.781889
+"Kajaani", 64.285472
+"Kauhajoki", 62.462502
+"Kruunupyy", 63.721172
+"Kemijarvi", 66.712883
+"Kuusamo", 65.987575
+"Kittila", 67.701022
+"Kuopio", 63.00715
+"Vesivehmaa", 61.144158
+"Lappeenranta", 61.044553
+"Mariehamn", 60.122203
+"Menkijarvi", 62.946667
+"Mikkeli", 61.6866
+"Nummela", 60.333889
+"Oulu", 64.930061
+"Piikajarvi", 61.245558
+"Pori", 61.461686
+"Pudasjarvi", 65.402222
+"Pyhasalmi", 63.731917
+"Pattijoki", 64.688056
+"Rantasalmi", 62.065481
+"Rovaniemi", 66.564822
+"Rayskala", 60.744722
+"Savonlinna", 61.943064
+"Selanpaa", 61.062389
+"Sodankyla", 67.395033
+"Tampere", 61.414147
+"Teisko", 61.77335
+"Turku", 60.514142
+"Utti", 60.896394
+"Vaasa", 63.05065
+"Varkaus", 62.171111
+"Ylivieska-raudaskyla", 64.060547
+"Belfast", 54.6575
+"Enniskillen", 54.398889
+"Belfast", 54.618056
+"Londonderry", 55.042778
+"Birmingham", 52.453856
+"Coventry", 52.369722
+"Leicester", 52.607778
+"Golouchestershire", 51.894167
+"Halfpenny Green", 52.5175
+"Pailton", 51.668056
+"Turweston", 52.040833
+"Wellesbourne", 52.192222
+"Manchester", 53.353744
+"Woodfort", 53.338056
+"Chivenor", 51.087167
+"Newquai", 50.440558
+"Lyneham", 51.505144
+"Boscombe Down", 51.152189
+"Culdrose", 50.086092
+"St. Athan", 51.404811
+"Yeovilton", 51.009358
+"Haverfordwest", 51.833056
+"Cardiff", 51.396667
+"Swansea", 51.605333
+"Bristol", 51.382669
+"Liverpool", 53.333611
+"London", 51.874722
+"Plymouth", 50.422778
+"Bournemouth", 50.78
+"Southampton", 50.950261
+"Lasham", 51.187167
+"Alderney", 49.706111
+"Guernsey", 49.434956
+"Jersey", 49.207947
+"Shoreham By Sea", 50.835556
+"Biggin Hill", 51.330833
+"London", 51.148056
+"London", 51.505278
+"Farnborough", 51.275833
+"Chalsgrove", 51.676111
+"Blackbushe", 51.323889
+"London", 51.4775
+"Southend", 51.571389
+"Lydd", 50.956111
+"Manston", 51.342222
+"Brough", 53.719667
+"Carlisle", 54.9375
+"Repton", 53.280556
+"Blackpool", 53.771667
+"Humberside", 53.574444
+"Barrow Island", 54.131167
+"Leeds", 53.865897
+"Warton", 53.745097
+"Hawarden", 53.178056
+"Isle Of Man", 54.083333
+"Newcastle", 55.0375
+"Teesside", 54.509189
+"East Midlands", 52.831111
+"Llanbedr", 52.811744
+"Ternhill", 52.871164
+"Shawbury", 52.798169
+"Woodvale", 53.581575
+"Kirkwall", 58.957778
+"Sumburgh", 59.878889
+"Wick", 58.458889
+"Aberdeen", 57.201944
+"Inverness", 57.5425
+"Glasgow", 55.871944
+"Edinburgh", 55.95
+"Islay", 55.681944
+"Prestwick", 55.509444
+"Benbecula", 57.481111
+"Scatsta", 60.432778
+"Dundee", 56.452499
+"Stornoway", 58.215556
+"Tiree", 56.499167
+"Leuchars", 56.372889
+"Lossiemouth", 57.705214
+"Cambridge", 52.205
+"Peterborough", 52.468056
+"Norwich", 52.675833
+"London", 51.885
+"North Weald", 51.721667
+"Fowlmere", 53.394256
+"Cranfield", 52.072222
+"Exeter", 50.734444
+"Bristol", 51.519444
+"Oxford", 51.836944
+"Benson", 51.616389
+"Lakenheath", 52.409333
+"Mildenhall", 52.361933
+"Wattisham", 52.127283
+"Wyton", 52.357167
+"Fairford", 51.682167
+"Brize Norton", 51.749964
+"Odiham", 51.234139
+"Cosford", 52.640028
+"Northolt", 51.553
+"Coningsby", 53.093014
+"Dishforth", 54.137186
+"Leeming", 54.292383
+"Church Fenton", 53.834333
+"Honington", 52.342611
+"Cottesmore", 52.735711
+"Scampton", 53.307778
+"Wittering", 52.612558
+"Linton-on-ouse", 54.048911
+"Waddington", 53.166167
+"Topcliffe", 54.205522
+"Cranwell", 53.03035
+"Barkston Heath", 52.962225
+"Marham", 52.648353
+"Amsterdam", 52.308613
+"Weert", 51.25528
+"Maastricht", 50.911658
+"Deelen", 52.060556
+"Drachten", 53.119167
+"Eindhoven", 51.450139
+"Groningen", 53.11972
+"Gilze-rijen", 51.567389
+"De Kooy", 52.923353
+"Lelystad", 52.460278
+"Leeuwarden", 53.228611
+"Rotterdam", 51.956944
+"Soesterberg", 52.1273
+"Enschede", 52.27
+"Valkenburg", 52.166139
+"Woensdrecht", 51.449092
+"Cork", 51.841269
+"Galway", 53.300175
+"Dublin", 53.421333
+"Connaught", 53.910297
+"Kerry", 52.180878
+"Casement", 53.301667
+"Shannon", 52.701978
+"Sligo", 54.280214
+"Waterford", 52.1872
+"Aarhus", 56.300017
+"Billund", 55.740322
+"Copenhagen", 55.617917
+"Esbjerg", 55.525942
+"Gronholt", 55.941387
+"Karup", 56.297458
+"Laeso", 57.277228
+"Maribo", 54.699344
+"Odense", 55.476664
+"Krusa-padborg", 54.870306
+"Copenhagen", 55.585567
+"Ronne", 55.063267
+"Soenderborg", 54.964367
+"Skrydstrup", 55.225553
+"Skive", 56.550208
+"Thisted", 57.0688
+"Kolding", 55.436283
+"Vagar", 62.063628
+"Vesthimmerland", 56.846944
+"Stauning", 55.990122
+"Aalborg", 57.092789
+"Luxemburg", 49.626575
+"Alesund", 62.560372
+"Andoya", 69.2925
+"Alta", 69.976111
+"Voss", 60.63885
+"Bronnoysund", 65.461111
+"Bodo", 67.269167
+"Bergen", 60.293386
+"Batsfjord", 70.600278
+"Kristiansand", 58.204214
+"Geilo", 60.416667
+"Bardufoss", 69.055758
+"Harstad/Narvik", 68.4913
+"Fagernes", 61.015556
+"Floro", 61.583611
+"Oslo", 60.193917
+"Haugesund", 59.345267
+"Hasvik", 70.486675
+"Kristiansund", 63.111781
+"Kjeller", 59.969336
+"Kirkenes", 69.725781
+"Farsund", 58.099486
+"Molde", 62.744722
+"Mosjoen", 65.783997
+"Lakselv", 70.068814
+"Notodden", 59.565683
+"Orland", 63.698908
+"Roros", 62.578411
+"Rygge", 59.378933
+"Svalbard", 78.246111
+"Skien", 59.185
+"Stord", 59.791925
+"Sandnessjoen", 65.956828
+"Tromso", 69.683333
+"Sandefjord", 59.186703
+"Trondheim", 63.457556
+"Stavanger", 58.876778
+"Warsaw", 52.268494
+"Gdansk", 54.377569
+"Krakow", 50.077731
+"Katowice", 50.238147
+"Katowice", 50.474253
+"Mielec", 50.322275
+"Poznan", 52.421031
+"Rzeszow", 50.109958
+"Szczecin", 53.584731
+"Slupsk", 54.478889
+"Shapaja", 53.790639
+"Warsaw", 52.16575
+"Wroclaw", 51.102683
+"Zielona Gora", 52.138517
+"Linkoeping", 58.402278
+"Norrkoeping", 58.610867
+"Uppsala", 59.897328
+"Ronneby", 56.266667
+"Rada", 58.498136
+"Gothenborg", 57.662836
+"Joenkoeping", 57.757594
+"Falkoping", 58.169794
+"Lidkoping", 58.465522
+"Gothenborg", 57.774722
+"Skovde", 58.4564
+"Trollhattan", 58.318056
+"Karlsborg", 58.513842
+"Satenas", 58.426445
+"Stockholm", 59.418694
+"Karlskoga", 59.345867
+"Mora", 60.957908
+"Stockholm", 58.788636
+"Arvika", 59.675856
+"Emmaboda", 56.610761
+"Ljungby", 56.950278
+"Kristianstad", 55.921686
+"Landskrona", 55.944444
+"Oskarshamn", 57.350453
+"Anderstorp", 57.264167
+"Kalkmar", 56.685531
+"Malmoe", 55.530193
+"Halmstad", 56.691128
+"Hagshult", 57.292222
+"Vaxjo", 56.929144
+"Hallviken", 63.738333
+"Hede", 62.408889
+"Sveg", 62.047811
+"Gallivare", 67.132408
+"Hudiksvall", 61.768092
+"Jokkmokk", 66.496236
+"Kramfors", 63.048597
+"Lycksele", 64.548322
+"Optand", 63.128611
+"Sundsvall", 62.528125
+"Ornskoldsvik", 63.408339
+"Pitea", 65.398333
+"Kiruna", 67.821986
+"Orsa", 61.190033
+"Skelleftea", 64.624772
+"Sattna", 62.481369
+"Umea", 63.791828
+"Vilhelmina", 64.579083
+"Arvidsjaur", 65.590278
+"Orebro", 59.223733
+"Vasteras", 59.589444
+"Lulea", 65.543758
+"Vidsel", 65.875325
+"Arboga", 59.386585
+"Stockholm", 59.651944
+"Stockholm", 59.354372
+"Borlange", 60.422017
+"Hultsfred", 57.525833
+"Gavle", 60.593333
+"Linkoeping", 58.40615
+"Norrkoeping", 58.586253
+"Eskilstuna", 59.351078
+"Visby", 57.662797
+"Kalixfors", 67.764789
+"Spangdahlem", 49.972667
+"Ramstein", 49.436911
+"Bamberg", 49.920433
+"Giebelstadt", 49.648131
+"Brueckeburg", 52.2785
+"Celle", 52.5912
+"Rheine-brentlange", 52.291167
+"Fritzlar", 51.1145
+"Laupheim", 48.220297
+"Mendig", 50.366
+"Niederstetten", 49.391833
+"Roth", 49.2175
+"Fassberg", 52.919406
+"Grafenwoehr", 49.698686
+"Hanau", 50.169189
+"Hohenfels", 49.218056
+"Kitzingen", 49.743057
+"Nordholz", 53.767667
+"Diepholz", 52.585514
+"Geilenkirchen", 50.960817
+"Hohn", 54.312167
+"Jever", 53.5335
+"Laage", 53.918167
+"Noervenich", 50.831167
+"Schleswig", 54.459333
+"Wittmundhafen", 53.547833
+"Neubrandenburg", 53.602167
+"Wunstorf", 52.457333
+"Vilseck", 49.63361
+"Coleman", 49.563569
+"Wiesbaden", 50.049819
+"Landsberg", 48.0705
+"Buechel", 50.173833
+"Erding", 48.322333
+"Fuerstenfeldbruck", 48.205667
+"Holzdorf", 51.767833
+"Ingolstadt", 48.715667
+"Lechfeld", 48.1855
+"Neuburg", 48.711
+"Guetersloh", 51.922833
+"Kangia", 69.2225
+"Dowagiac", 41.9929342
+"Dusseldorf", 51.220278
+"Tirana", 41.414742
+"Bourgas", 42.569583
+"Gorna Orechovica", 43.151444
+"Plovdiv", 42.067806
+"Sofia", 42.695194
+"Stara Zagora", 42.376667
+"Varna", 43.232072
+"Dubrovnik", 42.561353
+"Cepin", 45.542169
+"Osijek", 45.462667
+"Pula", 44.893533
+"Grobnik", 45.379483
+"Rijeka", 45.216889
+"Split", 43.538944
+"Varazdin", 46.294724
+"Zagreb", 45.742931
+"Zadar", 44.108269
+"Udbina", 44.55761
+"Aviles", 43.563567
+"Bilbao", 43.301097
+"Barcelona", 41.297078
+"La Coruna", 43.302061
+"Gerona", 41.900969
+"Madrid", 40.294139
+"Madrid", 40.493556
+"Pamplona", 42.770039
+"Reus", 41.147392
+"Salamanca", 40.952117
+"San Sebastian", 43.356519
+"Santiago", 42.896333
+"Seo De Urgel", 42.338611
+"Madrid", 40.496747
+"Valladolid", 41.706111
+"Madrid", 40.370678
+"Vitoria", 42.882836
+"Vigo", 42.2318
+"Santander", 43.427064
+"Zaragoza", 41.666242
+"Calais", 50.962097
+"Peronne", 49.868547
+"Nangis", 48.596219
+"Bagnole-de-l'orne", 48.545836
+"Albert", 49.971531
+"Le Tourquet", 50.517385
+"Valenciennes", 50.325808
+"Amiens", 49.873019
+"Agen", 44.174721
+"Cazaux", 44.533333
+"Bordeaux", 44.828335
+"Bergerac", 44.825279
+"Toulouse", 43.545555
+"Cognac", 45.658333
+"Poitiers", 46.587745
+"Montlucon-gueret", 46.222644
+"Limoges", 45.862778
+"Mont-de-marsan", 43.911667
+"Niort", 46.311303
+"Toulouse", 43.629075
+"Pau", 43.38
+"La Rochelle", 43.448891
+"Tarbes", 43.178675
+"Angouleme", 45.729247
+"Brive", 45.150833
+"Perigueux", 45.198055
+"Biarritz-bayonne", 43.468419
+"Cahors", 44.351387
+"St.-girons", 43.007764
+"Arcachon", 44.59639
+"Albi", 43.913887
+"Castres", 43.55625
+"Toulouse", 43.586113
+"Millau", 43.989342
+"Graulhet", 43.771111
+"Rodez", 44.407869
+"Ussel", 45.534721
+"Villeneuve-sur-lot", 44.396946
+"Royan", 45.628056
+"Mimizan", 44.146111
+"Aire-sur-l'adour", 43.709444
+"Montauban", 44.025694
+"Auch", 43.687778
+"Libourne", 44.982498
+"Pamiers", 43.090556
+"Marmande", 44.498919
+"Rochefort", 45.887779
+"Pontivy", 48.056789
+"Aubigny-sur-nere", 47.474167
+"Guiscriff-scaer", 48.052508
+"Ancenis", 47.408056
+"Brienne-le Chateau", 48.429764
+"Colmar", 48.109853
+"Beaune", 47.005886
+"Dole", 47.039014
+"Joigny", 47.992222
+"Verdun", 49.122383
+"Aubenas-vals-lanas", 44.544236
+"Le Puy", 45.080689
+"St.-flour", 45.076389
+"Bourg", 46.20089
+"Vilefrance", 45.901947
+"Moulins", 46.534581
+"St.-afrique-belmont", 43.823334
+"Cassagnes-beghones", 44.177776
+"Metz", 48.982142
+"Bastia", 42.552664
+"Calvi", 42.530753
+"Figari", 41.500557
+"Ajaccio", 41.923637
+"Propriano", 41.660558
+"Solenzara", 41.924416
+"Corte", 42.29361
+"Auxerre", 47.850193
+"Chambery", 45.63805
+"Clermont-Ferrand", 45.786661
+"Bourges", 47.058056
+"Chambery", 45.56105
+"Chalon", 46.826108
+"Annemasse", 46.191972
+"Lyon", 45.726387
+"Macon", 46.295103
+"St.-yan", 46.412536
+"Roanne", 46.058334
+"Annecy", 45.929233
+"Grenoble", 45.362944
+"Montlucon", 46.352525
+"Valence", 44.921594
+"Vichy", 46.169689
+"Aurillac", 44.891388
+"Chateauroux", 46.862194
+"Lyon", 45.727172
+"Aix-les-milles", 43.505554
+"Le Luc", 43.384672
+"Cannes", 43.54205
+"St-Etienne", 45.540554
+"Istres", 43.522736
+"Carcassonne", 43.215978
+"Marseille", 43.435555
+"Nice", 43.658411
+"Orange", 44.140481
+"Perpignan", 42.740442
+"Le Castellet", 43.252506
+"Ales", 44.069656
+"Montpellier", 43.576194
+"Beziers", 43.323522
+"Avignon", 43.9073
+"Salon", 43.606415
+"Lezignan-corbieres", 43.175835
+"Mende", 44.502108
+"Carpentras", 44.029847
+"Avord", 47.053333
+"Beauvais", 49.454444
+"Chateaudun", 48.058142
+"Saumur", 47.256839
+"Evreux", 49.028669
+"Le Havre", 49.533889
+"Abbeville", 50.143492
+"Orleans", 47.987778
+"Chalons", 48.776072
+"Rouen", 49.384172
+"Tours", 47.432222
+"Cholet", 47.082136
+"Laval", 48.031361
+"Orleans", 47.896946
+"Paris", 48.969444
+"Creil", 49.253547
+"Paris", 49.012779
+"Coulommiers", 48.837653
+"Melun", 48.604725
+"Toussous-le-noble", 48.751922
+"Paris", 48.725278
+"Pontoise", 49.096647
+"Villacoublay", 48.774406
+"Reims", 49.208689
+"Troyes", 48.322136
+"Luneville", 48.593275
+"Etain", 49.226917
+"Autun", 46.967283
+"Nevers", 47.002625
+"Cambrai", 50.221814
+"Maubeuge", 50.310467
+"Besancon-la-veze", 47.206567
+"Phalsbourg", 48.76625
+"Lille", 50.561942
+"Merville", 50.618394
+"Charleville", 49.783942
+"Vesoul-frotey", 47.637611
+"Brest", 48.447911
+"Cherbourg", 49.650106
+"Dinard", 48.587683
+"La Baule", 47.289444
+"Granville", 48.883057
+"Deauville", 49.365339
+"Lorient", 47.760555
+"La Roche-sur-yon", 46.701944
+"Landivisiau", 48.530258
+"Caen", 49.173333
+"Lanvedoc", 48.281703
+"Le Mans", 47.948611
+"Rennes", 48.069508
+"Lannion", 48.754378
+"Quimper", 47.974981
+"Nantes", 47.153189
+"St.-brieuc Armor", 48.537777
+"Morlaix", 48.603222
+"Vannes", 47.723303
+"St.-nazaire", 47.312189
+"Mulhouse", 47.589583
+"Colmar", 47.921978
+"Dijon", 47.26889
+"Metz", 49.071667
+"Epinal", 48.324961
+"Haguenau", 48.794331
+"St.-dizier", 48.636008
+"Montbeliard", 47.487
+"Nancy", 48.692069
+"Nancy", 48.583056
+"Pontarlier", 46.903958
+"Reims", 49.31
+"Strasbourg", 48.538319
+"Luxeuil", 47.783131
+"Cuers", 43.247803
+"Hyeres", 43.0973
+"Nimes", 43.757444
+"Miquelon", 47.095472
+"St.-pierre", 46.762904
+"Amberieu", 45.987335
+"Damblain", 48.086325
+"Alexandroupolis", 40.855869
+"Alexandria", 40.651128
+"Kastoria", 40.446294
+"Kavala", 40.972775
+"Kavala", 40.913306
+"Kozani", 40.28611
+"Lympne", 51.083333
+"Thessaloniki", 40.519725
+"Budapest", 47.436933
+"Debrecen", 47.488917
+"Kecskemet", 46.9175
+"Nyirregyhaza", 47.983892
+"Ocseny", 46.303889
+"Sturgeon Bay", 44.8436667
+"Azentkilyszabadja", 47.077861
+"Szolnok", 47.122861
+"Amendola", 41.541392
+"Bari", 41.138856
+"Foggia", 41.432917
+"Grottaglie", 40.517514
+"Lecce", 40.239228
+"Pescara", 42.431656
+"Brindisi", 40.657633
+"Gioia Del Colle", 40.767833
+"Alghero", 40.632133
+"Olbia", 40.898661
+"Turin", 45.086353
+"Milano", 45.542222
+"Milano", 45.630606
+"Bergamo", 45.673889
+"Torino", 45.200761
+"Albenga", 44.050608
+"Genoa", 44.413333
+"Milan", 45.445103
+"Cameri", 45.529592
+"Parma", 44.824483
+"Piacenza", 44.913055
+"Cuneo", 44.547019
+"Aviano", 46.031889
+"Bolzano", 46.460194
+"Cervia", 44.224175
+"Bologna", 44.535444
+"Treviso", 45.6484
+"Rivolto", 45.97875
+"Forli", 44.194753
+"Ghedi", 45.432167
+"Verona", 45.472017
+"Brescia", 45.428889
+"Ronchi De Legionari", 45.8275
+"Rimini", 44.020292
+"Treviso", 45.684867
+"Vicenza", 45.573411
+"Padova", 45.395767
+"Villafranca", 45.395706
+"Venice", 45.505278
+"Siena", 43.256286
+"Rome", 41.799361
+"Pratica Di Mare", 41.654522
+"Rome", 41.804475
+"Guidonia", 41.990278
+"Marina Di Campo", 42.760277
+"Latina", 41.542436
+"Grazzanise", 41.060833
+"Naples", 40.886033
+"Pisa", 43.683917
+"Florence", 43.809953
+"Grosseto", 42.759747
+"Rome", 41.951946
+"Viterbo", 42.430183
+"Perugia", 43.095906
+"Cerklje", 45.899971
+"Ljubljana", 46.223686
+"Maribor", 46.479861
+"Portoroz", 45.473353
+"Slovenj Gradec", 46.471975
+"Ceske Budejovice", 48.946381
+"Caslav", 49.939653
+"Hradec Kralove", 50.2532
+"Horovice", 49.848111
+"Praha", 50.121367
+"Kunovice", 49.029444
+"Karlovy Vary", 50.202978
+"Line", 49.675172
+"Mnichovo Hradiste", 50.540211
+"Ostrava", 49.696292
+"Namest", 49.165833
+"Pardubice", 50.013419
+"Pribram", 49.720078
+"Prerov", 49.425833
+"Prague", 50.100833
+"Brno", 49.151269
+"Vodochody", 50.216581
+"Wiener Neustadt Ost", 47.843333
+"Wels", 48.183304
+"Graz", 46.991067
+"Innsbruck", 47.260219
+"Linz", 48.233219
+"Salzburg", 47.793304
+"Vienna", 48.110278
+"Klagenfurt", 46.642514
+"Zeltweg", 47.202751
+"Braganca", 41.8578
+"Braga", 41.587058
+"Coimba", 40.157223
+"Covilha", 40.264772
+"Ovar", 40.915867
+"Porto", 41.248055
+"Vila Real", 41.274334
+"Viseu", 40.725539
+"Pendleton", 45.695
+"Mostar", 43.2829
+"Sarajevo", 43.824583
+"Arad", 46.17655
+"Bacau", 46.521946
+"Baia Mare", 47.658389
+"Bucharest", 44.503194
+"Constanta", 44.362222
+"Cluj-napoca", 46.785167
+"Caransebes", 45.42
+"Craiova", 44.318139
+"Iasi", 47.178492
+"Oradea", 47.025278
+"Bucharest", 44.572161
+"Sibiu", 45.785597
+"Satu Mare", 47.703275
+"Suceava", 47.6875
+"Tulcea", 45.062486
+"Tirgu Mures", 46.467714
+"Timisoara", 45.809861
+"Les Eplatures", 47.08385
+"Geneva", 46.238064
+"Saanen", 46.487499
+"Sion", 46.219592
+"Alpnach", 46.943889
+"Dubendorf", 47.398644
+"Emmen", 47.092369
+"Mollis", 47.078872
+"Meiringen", 46.743333
+"Payerne", 46.843208
+"Buochs", 46.974914
+"Lugano", 46.004275
+"Bern", 46.9141
+"Grenchen", 47.181628
+"Zurich", 47.464722
+"Altenrhein", 47.485033
+"Samedan", 46.534075
+"Ankara", 40.128082
+"Ankara", 40.078919
+"Merzifon", 40.829375
+"Tokat", 40.306281
+"Istanbul", 40.976922
+"Bandirma", 40.317972
+"Tyonek", 61.076667
+"Yalova", 40.684353
+"Topel", 40.735028
+"Riverton WY", 43.064167
+"Istanbul", 40.992975
+"Trabzon", 40.995108
+"Saltsy", 47.838114
+"Chisinau", 46.927744
+"Ohrid", 41.179956
+"Skopje", 41.961622
+"Belgrade", 44.818444
+"Nis", 43.337289
+"Podgorica", 42.359392
+"Pristina", 42.572778
+"Tivat", 42.404664
+"Vrsac", 45.146889
+"Bratislava", 48.170167
+"Kosice", 48.663055
+"Malacky", 48.402028
+"Piestany", 48.625247
+"Sliac", 48.637839
+"Trencin", 48.865003
+"Poprad", 49.073594
+"Bolingbrook", 41.6959744
+"Kenosha", 42.5956944
+"Lake Geneva", 42.6149167
+"De Kalb", 41.9338342
+"Lafayette", 40.4123056
+"Muncie", 40.2424722
+"Sabadell", 41.5209
+"Myvatn", 65.6558
+"Lyon", 46
+"Point Roberts", 48.9797222
+"Obihiro", 42.733333
+"Sapporo", 42.7752
+"Hakodate", 41.77
+"Chitose", 42.794475
+"Memanbetsu", 43.880606
+"Nakashibetsu", 43.5775
+"Tokachi", 42.890544
+"Wakkanai", 45.404167
+"Monbetsu", 44.303914
+"Asahikawa", 43.670833
+"Okushiri", 42.071667
+"Rishiri Island", 45.242006
+"Aomori", 40.734722
+"Hachinoe", 40.556447
+"Misawa", 40.703222
+"Sazena", 50.1929
+"Macomb", 40.5200833
+"Kalundborg", 55.7001
+"Oslo", 60.1939
+"Wausau", 44.9262845
+"Portage", 43.5603136
+"Ironwood", 46.5274747
+"Mackinac Island", 45.8649344
+"Grand Marais", 47.8383333
+"Valparaiso", 41.4539722
+"McCarthy", 61.4370608
+"Seward", 60.1269383
+"Michigan City", 41.7033
+"East Glacier", 48.443965
+"Hoexter Holzminden", 51.4838
+"Dinslaken", 51.3659
+"Allakaket", 66.5519
+"Alma-ata", 43.352072
+"Balkhash", 46.893333
+"Tselinograd", 51.022222
+"Dzhambul", 42.853611
+"Bishkek", 43.061306
+"Osh", 40.608989
+"Chimkent", 42.364167
+"Yakutat", 59.3012
+"Uralsk", 51.150833
+"Pavlodar", 52.195
+"Semiplatinsk", 50.3513
+"Shevchenko", 43.86005
+"Aktyubinsk", 50.245833
+"Baku", 40.4675
+"Yakutsk", 62.09325
+"Mirnyj", 62.534689
+"Blagoveschensk", 50.425394
+"Khabarovsk", 48.528044
+"Marquette", 46.353611
+"Provideniya Bay", 64.378139
+"Magadan", 59.910989
+"Pevek", 69.783283
+"Petropavlovsk", 53.167889
+"Yuzhno-sakhalinsk", 46.888672
+"Vladivostok", 43.398953
+"Chita", 52.026317
+"Bratsk", 56.370556
+"Irkutsk", 52.268028
+"Ulan-ude", 51.807764
+"Kiev", 50.345
+"Donetsk", 48.073611
+"Dnepropetrovsk", 48.357222
+"Simferopol", 45.052222
+"Kiev", 50.401694
+"Lvov", 49.8125
+"Iron Mountain", 45.8183611
+"Odessa", 46.426767
+"St. Petersburg", 59.800292
+"Murmansk", 68.781672
+"Gomel", 52.527022
+"Vitebsk", 55.1265
+"Kaliningrad", 54.89005
+"Minsk", 53.864472
+"Minsk 2", 53.882469
+"Abakan", 53.74
+"Barnaul", 53.363775
+"Kemorovo", 55.270094
+"Omsk", 54.967042
+"Krasnodar", 45.034689
+"Makhachkala", 42.816822
+"Mineralnye Vody", 44.225072
+"Stavropol", 45.109165
+"Rostov", 47.258208
+"Sochi", 43.449928
+"Astrakhan", 46.283333
+"Volgograd", 48.782528
+"Chelyabinsk", 55.305836
+"Magnetiogorsk", 53.393131
+"Nizhnevartovsk", 60.949272
+"Perm", 57.914517
+"Surgut", 61.343694
+"Yekaterinburg", 56.743108
+"Krasnovodsk", 40.063333
+"Tashkent", 41.257861
+"Bryansk", 53.214194
+"Moscow", 55.972642
+"Tver", 56.824736
+"Voronezh", 51.814211
+"Moscow", 55.591531
+"Syktyvkar", 61.64705
+"Kazan", 55.606186
+"Orenburg", 51.795786
+"Ufa", 54.557511
+"Samara", 53.504858
+"Escanaba", 45.722778
+"Lillinghof", 49.6543
+"Balkhash", 46.8933
+"Nastaetten", 50.1972
+"Finsterwalde", 51.6377
+"Lommis", 47.5244
+"Amlikon", 47.5742
+"Mukacheve", 48.4
+"Mukacheve", 48.4
+"Minsk", 53.57
+"Hellwege", 53.054
+"Strymba", 47.8381
+"Beijing", 40.080111
+"Hailar", 49.204997
+"Ulan Bator", 47.843056
+"Urumqi", 43.907106
+"Harbin", 45.623403
+"Hohenems", 47.385
+"Mudanjiang", 44.524072
+"Barter Island", 70.133989
+"Fort Wainwright", 70.613378
+"Cape Lisburne", 68.875133
+"Point Lay", 69.732875
+"Bettles", 66.913944
+"Clear Mews", 64.301203
+"Indian Mountains", 65.992794
+"Fort Yukon", 66.571492
+"Sparrevohn", 61.097369
+"Fort Richardson", 61.266381
+"Tatalina", 62.894369
+"Cape Romanzof", 61.780297
+"Bedford", 42.469953
+"St. Paul Island", 57.167333
+"Cape Newenham", 58.646428
+"Point Barrow", 56.578344
+"Iliamna", 59.754356
+"Port Moller", 59.011356
+"Big Mountain", 59.361247
+"Oscoda", 44.451558
+"Anchorage", 61.213544
+"Grand Forks", 47.949256
+"Trenton", 40.276692
+"Boston", 42.364347
+"Rome", 43.2338
+"Wendover", 40.718694
+"Omaha", 41.303167
+"Port Angeles", 48.141481
+"Madison", 43.139858
+"Dillingham", 59.044667
+"Bangor", 44.807444
+"Spokane", 47.619861
+"Cutbank", 48.608353
+"Delta Junction", 63.994547
+"Annette Island", 55.042436
+"Caribou", 46.8715
+"Cleveland", 41.411689
+"Huron", 44.3852
+"Juneau", 58.354972
+"Newark", 40.6925
+"Boise", 43.564361
+"Minot", 48.259378
+"Helena", 46.606806
+"Houlton", 46.123083
+"Nantucket", 41.253053
+"Presque Isle", 46.688958
+"Fort Lewis", 47.079217
+"Kodiak", 57.749967
+"International Falls", 48.566186
+"Salt Lake City", 40.788389
+"Harrisburg", 40.193494
+"Lincoln", 40.850971
+"Lansing", 42.7787
+"Massena", 44.935833
+"Millinocket", 45.647836
+"Fort Drum", 44.055619
+"Port Huron", 42.910957
+"Red River", 47.961098
+"Northway", 62.961334
+"Palmer", 61.594914
+"Pittsburgh", 40.491467
+"Barrow", 71.285446
+"Whidbey Island", 48.351803
+"Seattle", 47.449
+"Stratford", 41.163472
+"Williamsport", 41.241836
+"Akron", 41.0375
+"White Plains", 41.066959
+"West Hampton Beach", 40.843656
+"Duluth", 46.842091
+"Bethel", 60.779778
+"Havre", 48.542983
+"Grant County Airport", 47.207708
+"Montpelier", 44.203503
+"Cordova", 60.491778
+"Ogden", 41.123939
+"Nome", 64.512203
+"San Luis", 45.771028
+"Macon", 45.12665
+"Deadhorse", 70.19475
+"Rochester", 43.118866
+"Teterboro", 40.850103
+"Rapid City", 44.145042
+"Kenai", 60.573111
+"Niagara Falls", 43.107333
+"Minot", 48.415572
+"Kankakee", 41.071389
+"Providence", 41.732581
+"Detroit", 42.212444
+"Pembina", 48.942501
+"Fairbanks", 64.665667
+"Hibbing", 47.3866
+"Green Bay", 44.485072
+"Wrightstown", 40.015556
+"Williston", 48.177939
+"Newburgh", 41.504094
+"Baudette", 48.728444
+"Homer", 59.645556
+"Spokane", 47.615058
+"Houghton Lake", 44.359806
+"Tacoma", 47.137678
+"Gwinn", 46.353625
+"Grand Rapids", 42.880833
+"Anchorage", 61.250986
+"Kotzebue", 66.884678
+"Altoona", 40.296372
+"New York", 40.777245
+"West Chicago", 41.907778
+"Augusta", 44.320647
+"Burlington", 44.471861
+"Spokane", 47.682819
+"Milwaukee", 42.947222
+"Portland", 45.588722
+"Ogdensburg", 44.681854
+"Falmouth", 41.658439
+"Seattle", 47.53
+"Des Moines", 41.533972
+"Detroit", 42.409195
+"Mount Clemens", 42.608333
+"Syracuse", 43.111187
+"Chicago", 41.785972
+"Philadelphia", 40.081944
+"Sioux City", 42.402603
+"Princeton", 45.559868
+"Galena", 64.736178
+"Plattsburgh", 44.650944
+"Anchorage", 61.174361
+"Bellingham", 48.792694
+"Hartford", 41.736722
+"Smithfield", 41.920764
+"King Salmon", 58.676778
+"Muir", 40.434811
+"New York", 40.639751
+"Willow Grove", 40.199833
+"Cheyenne", 41.155722
+"Ketchikan", 55.355556
+"Detroit", 42.237928
+"Lakehurst", 40.033333
+"Shemya", 52.712275
+"Chicago", 42.422161
+"Buffalo", 42.940525
+"Sandusky", 41.433361
+"Everett", 47.906342
+"Mountain Home", 43.043603
+"Windsor Locks", 41.938889
+"Chicopee Falls", 42.194014
+"Chicago", 41.978603
+"Fairbanks", 64.815114
+"Omaha", 41.118332
+"Gulkana", 62.154888
+"Watertown", 43.991922
+"Fort Dodge", 42.5512
+"Cold Bay", 55.206061
+"Sitka", 57.047138
+"Islip", 40.79525
+"Minneapolis", 44.881956
+"Unalaska", 53.900139
+"Portland", 43.646161
+"Albany", 42.748267
+"Valdez", 61.133949
+"Peru", 40.648094
+"Casper", 42.908
+"Great Falls", 47.482
+"Youngstown", 41.260736
+"Fort Wainwright", 64.8375
+"Mackminnville", 45.194444
+"S-Chanf", 46.6166
+"Krems", 48.446075
+"Pullman", 46.743861
+"Lewiston", 46.3745
+"Elmira", 42.159889
+"Ithaca", 42.491028
+"Liepaja", 56.5175
+"Riga", 56.923611
+"Siauliai", 55.893886
+"Barysiai", 56.070556
+"Kaunas", 54.963919
+"Kaunas", 54.879792
+"Palanga", 55.973228
+"Vilnius", 54.634133
+"Panevezys", 55.729444
+"Yerevan", 40.122114
+"Stepanavan", 41.04845
+"Yerevan", 40.147275
+"Gyumri", 40.750369
+"Batumi", 41.610278
+"Kutaisi", 42.176653
+"Tbilisi", 41.669167
+"Memmingen", 47.988758
+"Panorama", 50.2735
+"New York", 40.701214
+"Ilulissat", 69.23444
+"Qasigiannguit", 68.833336
+"Aasiaat", 68.7
+"Talkeetna", 62.3205
+"New Haven", 41.26375
+"Sioux Falls", 43.582014
+"Manchester NH", 42.932556
+"Bozeman", 45.777643
+"Billings", 45.80921
+"Butte", 45.954806
+"Traverse City", 44.741445
+"Bar Harbor", 44.4497689
+"Rockland", 44.0601111
+"Jacksn Hole", 43.607333333
+"Rockford", 42.1953611
+"Moscow", 55.408611
+"New York", 40.7425
+"Cologne", 50.9425
+"Stuttgart", 48.783611
+"Bloomington", 40.477111
+"Kalamazoo", 42.234875
+"Toledo", 41.586806
+"Fort Wayne", 40.978472
+"Cedar Rapids", 41.884694
+"La Crosse", 43.878986
+"Wassau", 44.772726
+"Peoria", 40.664203
+"Appleton", 44.257526
+"Rochester", 43.908283
+"Champaign", 40.03925
+"Basel", 47.59
+"Franklin", 41.377874
+"Moline", 41.448528
+"Novosibirsk", 55.012622
+"Samsoe", 55.89
+"Bismarck", 46.775842
+"Rapid City", 44.045278
+"Flint", 42.965424
+"Ekati", 64.698889
+"Redding", 40.509
+"Eugene", 44.124583
+"Idaho Falls", 43.514556
+"Medford", 42.374228
+"Redmond-Bend", 44.254066
+"Victoria", 48.422778
+"Vancouver", 49.289722
+"Tyumen", 57.189567
+"Akron", 40.9160833
+"Samara", 53.5
+"Kalispell", 48.310472
+"Saginaw", 43.532913
+"Binghamton", 42.208689
+"Shenyang", 41.3824
+"Petersburg", 56.801667
+"Brac", 43.285719
+"Trogen", 46.992094
+"Zuerich", 47.36029
+"Aachen", 50.823194
+"Karlsruhe/Baden-Baden", 48.7793
+"Johnstown", 40.316111
+"Weeze", 51.602222
+"Zweibruecken", 49.209445
+"Norden", 53.632221
+"Juist", 53.681572
+"Missoula", 46.916306
+"Aklavik", 68.223333
+"Deline", 65.1833333
+"Tulita", 64.0833333
+"Fort Good Hope", 66.26666667
+"Inuvik", 66.3676
+"Inuvik", 68.3676
+"Paulatuk", 62.35
+"Nicholson Peninsula", 69.917
+"Kulusuk", 65.566667
+"Stokmarknes", 68.580833
+"Richmond Heights", 41.565124
+"Mansfield", 40.8214167
+"Fort Collins", 40.451828
+"Twin Falls", 42.481803
+"Monaco", 43.73333333
+"Vineyard Haven MA", 41.391667
+"Newport RI", 41.533056
+"Springfield VT", 43.343333
+"Concord NH", 43.20267
+"Sanford ME", 43.39383
+"Groton CT", 41.330056
+"Saint Cloud", 45.546556
+"Nizhniy Novgorod", 56.230119
+"Hoquiam", 46.9711944
+"Erie", 42.082022
+"Barnstable", 41.669336
+"Scranton", 41.338478
+"Bemidji", 47.510722
+"Baku", 40.4675
+"Fargo", 46.92065
+"Gillette", 44.3489167
+"Tomsk", 56.380278
+"Dunhuang", 40.094
+"Ancona", 43.616389
+"Samjiyon", 41.542301
+"East Tawas", 44.311
+"Istanbul", 40.898553
+"State College Pennsylvania", 40.849278
+"Bakki", 63.55805
+"Klagenfurt", 46.642514
+"Schneverdingen", 53.1167
+"Hammerfest", 70.679722
+"Honningsvag", 70.99
+"Mehamn", 71.029722
+"Vadso", 70.065
+"Munich", 48.137778
+"Egelsbach", 49.9608
+"Ust Ilimsk", 58.135
+"Mudanjiang", 44.523889
+"Haskovo", 41.976375
+"Hayden", 40.481181
+"Cody", 44.520194
+"Orsta-Volda", 62.18
+"WATTON", 52.33
+"ST MARY\\'S", 49.919
+"Narvik", 68.435833
+"Berlevag", 70.866667
+"Oslo", 59.883333
+"Norilsk", 69.311053
+"Anapa", 45.002097
+"Allentown", 40.652083
+"Atyrau", 47.121944
+"Kzyl-Orda", 44.709
+"South Bend", 41.708661
+"Moscow", 55.617222
+"Arkhangelsk", 64.360281
+"Saratov", 51.334366
+"Novy Urengoy", 66.041811
+"Noyabrsk", 63.110079
+"Aktau", 43.86005
+"Ukhta", 63.340297
+"Usinsk", 66.00077
+"Pechora", 65.070387
+"Naryan-Mar", 67.380537
+"Pskov", 57.783917
+"Kogalym", 62.18
+"Krasnoyarsk", 56.18
+"Karaganda", 49.670833
+"Novosibirsk", 55.1
+"Uraj", 60.1
+"Ivanovo", 56.939444
+"Changchun", 43.5412
+"Fort Wayne IN", 41.143353
+"Arcata CA", 40.978111
+"Dubuque IA", 42.402
+"Forde", 61.392
+"Yakutia", 66.400431
+"Ganja", 40.7377
+"Sandefjord", 59.186703
+"Ust Kamenogorsk", 50.0366
+"Petropavlosk", 54.7747
+"Odate Noshiro", 40.1919
+"Sapporo", 43.1161
+"Kushiro", 43.041
+"Wrangell", 56.4843
+"Chevak", 61.5338
+"Aniak", 61.5816
+"Mountain Village", 62.0954
+"Mcgrath", 62.9529
+"Kalskag", 61.5363
+"Haines", 59.2438
+"Holy Cross", 62.1883
+"Skagway", 59.4601
+"Gustavus", 58.4253
+"Adak Island", 51.878
+"Žilina", 49.231528
+"Samsun", 41.2545
+"Kars", 40.562222
+"Banja Luka", 44.941444
+"Salerno", 40.6204
+"Aosta", 45.738456
+"Sármellék", 46.686389
+"Győr", 47.627097
+"Pécs-Pogány", 45.990928
+"La Môle", 43.2054
+"Mulhouse", 47.589583
+"Angers/Marcé", 47.5603
+"Île d'Yeu", 46.718611
+"Logroño-Agoncillo", 42.4542
+"Yakima", 46.5682
+"Worland", 43.9657
+"Saranac Lake", 44.3853
+"Sheridan", 44.7692
+"Rutland", 43.5294
+"Rock Springs", 41.5942
+"Rhinelander", 45.6312
+"Reading", 40.3785
+"Portsmouth", 43.0779
+"Pellston", 45.5709
+"Pierre", 44.3827
+"Pocatello", 42.9098
+"North Bend", 43.4171
+"Miles City", 46.428
+"Muskegon", 43.1695
+"Lewistown", 47.0493
+"Lancaster", 40.1217
+"Klamath Falls", 42.1561
+"Lebanon", 43.6261
+"North Platte", 41.1262
+"Latrobe", 40.2759
+"Laramie", 41.3121
+"Jamestown", 46.9297
+"Kirksville", 40.0935
+"Grand Island", 40.9675
+"Glasgow", 48.2125
+"New Bedford", 41.6761
+"Elko", 40.8249
+"Eau Claire", 44.8658
+"Du Bois", 41.1783
+"Hancock", 47.1684
+"Port Angeles", 48.1202
+"Sault Ste Marie", 46.2508
+"Crescent City", 41.7802
+"Burlington", 40.7832
+"Scottsbluff", 41.874
+"Bradford", 41.8031
+"Watertown", 44.914
+"Alpena", 45.0781
+"Walla Walla", 46.0949
+"Waterloo", 42.5571
+"Aberdeen", 45.4491
+"Tremiti Islands", 42.1025
+"Iginniarfik", 68.7
+"Akunnaaq", 68.75
+"Groennedal", 61.2333
+"Papa Stour", 60.3217
+"Outer Skerries", 60.417
+"Foula", 60.121
+"Cannes", 43.536
+"Ventspils", 57.357778
+"Hemavan", 65.806111
+"Mohed", 64.960894
+"Ängelholm", 56.2961
+"Torsby", 60.157622
+"Karlstad", 59.4447
+"Hagfors", 60.020064
+"Östersund", 63.1944
+"Lodz", 51.721881
+"Bydgoszcz", 53.0968
+"Værøy", 67.6667
+"Vardø", 70.355392
+"Sorkjosen", 69.7868
+"Svolvær", 68.2433
+"Sogndal", 61.1561
+"Sandane", 61.83
+"Røst", 67.5278
+"Rørvik", 64.8383
+"Mo i Rana", 66.3639
+"Namsos", 64.4722
+"Leknes", 68.1525
+"Sindal", 57.503525
+"Leixlip", 53.351333
+"Dongloe", 55.044192
+"Raron", 46.3036
+"Barra", 57.0228
+"Angelsey", 53.248097
+"Penzance", 50.1281
+"Land's End", 50.1028
+"Westray", 59.3503
+"Lerwick", 60.1922
+"Sanday", 59.2503
+"Stronsay", 59.1553
+"Papa Westray", 59.3517
+"North Ronaldsay", 59.3675
+"Fair Isle", 59.5358
+"Eday", 59.1906
+"Campbeltown", 55.4372
+"Doncaster, Sheffield", 53.474722
+"Nottingham", 52.92
+"Seinäjoki / Ilmajoki", 62.6921
+"Helgoland", 54.1853
+"Büsum", 54.1533
+"Heringsdorf", 53.878706
+"Wollaston Lake", 58.1069
+"Churchill Falls", 53.5619
+"Shamattawa", 55.8656
+"Sandy Lake", 53.0642
+"Round Lake", 52.9436
+"Sachigo Lake", 53.8911
+"Masset", 54.0275
+"Muskrat Dam", 53.4414
+"Kashechewan", 52.2825
+"Swan River", 52.1206
+"Gods River", 54.8397
+"Fond-Du-Lac", 59.3344
+"Eastmain River", 52.2264
+"Bathurst", 47.6297
+"Ilford", 56.0614
+"York Landing", 56.0894
+"Salluit", 62.1794
+"Whale Cove", 62.24
+"Webequie", 52.9597
+"Deer Lake", 52.6558
+"Big Trout Lake", 53.8178
+"St. Theresa Point", 53.8456
+"Sanikiluaq", 56.5378
+"Stony Rapids", 59.2503
+"Red Lake", 51.0669
+"Gamètì", 64.1161
+"Nakina", 50.182777
+"The Pas", 53.9714
+"Powell River", 49.8342
+"Peawanuck", 54.9881
+"Pikangikum", 51.8197
+"Inukjuak", 58.4719
+"Oxford House", 54.9333
+"Points North Landing", 58.2767
+"Norway House", 53.9583
+"Wemindji", 53.0106
+"Umiujaq", 56.5361
+"Chibougamau", 49.7719
+"Mary's Harbour", 52.3028
+"Kangiqsualujjuaq", 58.7114
+"Lutselk'e", 62.4183
+"Lansdowne House", 52.1956
+"Kimmirut", 62.85
+"Aupaluk", 59.2967
+"Waskaganish", 51.4733
+"Akulivik", 60.8186
+"Island Lake", 53.8572
+"Ivujivik", 62.4173
+"Chevery", 50.4689
+"Hopedale", 55.4483
+"Nemiscau", 51.6911
+"Vancouver", 49.2944
+"Quaqtaq", 61.0464
+"Grise Fiord", 76.4261
+"Gillam", 56.3575
+"Kuujjuarapik", 55.2819
+"Igloolik", 69.3647
+"Gods Lake Narrows", 54.5589
+"Texada", 49.6942
+"Makkovik", 55.0769
+"Fort Hope", 51.5619
+"Fort Albany", 52.2014
+"Fort Severn", 56.0189
+"Nain", 56.5492
+"Chesterfield Inlet", 63.3469
+"Cartwright", 53.6828
+"Lourdes-De-Blanc-Sablon", 51.4436
+"Uranium City", 59.5614
+"Lac Du Bonnet", 50.2944
+"Attawapiskat", 52.9275
+"Kangirsuk", 60.0272
+"Kasabonika", 53.5247
+"Fort Frances", 48.6542
+"Cat Lake", 51.7272
+"La Tabatière", 50.8308
+"Tête-à-la-Baleine", 50.6744
+"Chisasibi", 53.8056
+"Poplar Hill", 52.1133
+"Ogoki Post", 51.6586
+"Kingfisher Lake", 53.0125
+"Bearskin Lake", 53.9656
+"North Spirit Lake", 52.49
+"Wunnumin Lake", 52.8939
+"Angling Lake", 53.8492
+"Summer Beaver", 52.7086
+"Whatì", 63.1317
+"Colville Lake", 67.0333
+"Rigolet", 54.1797
+"Port Hope Simpson", 52.5281
+"St. Lewis", 52.3728
+"Williams Harbour", 52.5669
+"Anahim Lake", 52.4525
+"Whistler", 50.1436
+"Vopnafjörður", 65.7206
+"Thorshofn", 66.2185
+"Grímsey", 66.5547
+"Uummannaq", 70.7342
+"Upernavik", 72.7902
+"Sisimiut", 66.9513
+"Qaanaaq", 77.4886
+"Narsaq", 60.9167
+"Nanortalik", 60.14
+"Maniitsoq", 65.4125
+"Qaqortoq", 60.7158
+"Qeqertarsuaq Airport", 69.2511
+"Paamiut", 61.9922
+"Neerlerit Inaat", 70.7433
+"Alluitsup Paa", 60.4644
+"Komsomolsk-on-Amur", 50.4094
+"Tiksi", 71.6977
+"Cherskiy", 68.7406
+"Chokurdah", 70.6231
+"Neryungri", 56.9139
+"Kostanay", 53.206944
+"Zhezkazgan", 47.708333
+"Kokshetau", 53.3291
+"Fremont", 41.3331
+"Anadyr", 64.73495
+"Okhotsk", 59.4101
+"Mariupol International", 47.0761
+"Lugansk", 48.4174
+"Zaporozhye", 47.867
+"Krivoy Rog", 48.0433
+"Kharkov", 49.924786
+"Ivano-Frankivsk", 48.884167
+"Chernovtsk", 48.259322
+"Rivne", 50.6071
+"Uzhgorod", 48.634278
+"Solovetsky Islands", 65.03
+"Cherepovets", 59.2736
+"Amderma", 69.7633
+"Kotlas", 61.2358
+"Petrozavodsk", 61.8852
+"Hrodna", 53.602
+"Mogilev", 53.9549
+"Yeniseysk", 58.4742
+"Kyzyl", 51.6694
+"Novokuznetsk", 53.8114
+"Khatanga", 71.978058
+"Igarka", 67.4372
+"Grozny", 43.2981
+"Nalchik", 43.5129
+"Beslan", 43.2051
+"Elista", 46.3739
+"Aleknagik", 59.2826
+"Brookings", 44.3048
+"Kearney", 40.727
+"Pasco", 46.2647
+"Akutan", 54.1325
+"Lopez", 48.4839
+"Salekhard", 66.590753
+"Khanty-Mansiysk", 61.028479
+"Nyagan", 62.11
+"Sovetskiy", 61.32
+"Izhevsk", 56.8281
+"Kirov", 58.5033
+"Nadym", 65.4809
+"Raduzhnyi", 62.1586
+"Nefteyugansk", 61.1083
+"Kurgan", 55.4753
+"Khudzhand", 40.2154
+"Andizhan", 40.7277
+"Fergana", 40.3588
+"Namangan", 40.9846
+"Nukus", 42.4884
+"Urgench", 41.5843
+"Rybinsk", 58.1042
+"Belgorod", 50.6438
+"Kursk", 51.7506
+"Lipetsk", 52.7028
+"Vorkuta", 67.4886
+"Bugulma", 54.64
+"Yoshkar-Ola", 56.7006
+"Cheboksary", 56.0903
+"Ulyanovsk", 54.401
+"Orsk", 51.0725
+"Penza", 53.1106
+"Saransk", 54.1251
+"Balakovo", 51.8583
+"Chifeng", 42.235
+"Datong", 40.0603
+"Hohhot", 40.851422
+"Baotou", 40.56
+"Tongliao", 43.5567
+"Ulanhot", 46.083
+"Xilinhot", 43.9156
+"Arvaikheer", 46.2503
+"Altai", 46.3764
+"Bayankhongor", 46.1633
+"Dalanzadgad", 43.5917
+"Khovd", 47.9541
+"Muren", 49.6633
+"Aksu", 41.2625
+"Kuqa", 41.7181
+"Korla", 41.6978
+"Karamay", 45.617
+"Yining", 43.9558
+"Heihe", 50.25
+"Jiamusi", 46.843394
+"Jinzhou", 41.1014
+"Qiqihar", 47.239628
+"Yanji", 42.8828
+"Inis Mor", 53.1067
+"Indreabhan", 53.2303
+"Ruegen", 54.383333
+"Berezovo", 63.9241
+"Szczecin", 53.471138
+"Worcester", 42.2673
+"Dandong", 40.0255
+"New Rochelle", 40.913923
+"Anoka", 45.1448889
+"New Haven", 41.298669
+"Chicago", 41.8791966
+"Bremerton", 47.490244
+"Spencer", 43.165527
+"Tannheim", 48.011736
+"Glenview", 42.074197
+"Ice Cap", 72.579187
+"Unst", 60.7472
+"Provincetown", 42.071945
+"Seattle", 47.629
+"Nazran", 43.323815
+"Kostroma", 57.47
+"Sukhumi", 42.87
+"Tambow", 52.81
+"North Connel", 56.464
+"Vilamendhoo", 73.0191098670891
+"Vilamendhoo", 73.801
+"Aaa", 73.9
+"Sharya", 58.2321
+"Prangins", 46.413056
+"Courcheval", 45.3967
+"Isle Of Wight", 50.677776
+"Fort William", 56.816666
+"Navoi", 40.1172
+"Paris", 48.86667
+"Andernos-Les-Bains", 44.81111
+"Nauen", 52.6617
+"La Rochelle", 46.1792
+"Hailey", 43.504444
+"Yverdon-Les-Bains", 46.86667
+"Portsmouth", 50.8
+"Bielsko-Biala", 49.84997
+"Mason City", 43.2247
+"DWEST", 51.025
+"Niederoeblarn", 47.478
+"Bad Voeslau", 47.965
+"Uetersen", 53.646667
+"Salzwedel", 52.8333
+"Nordhausen", 51.4888
+"Paetz", 52.2361
+"Mohe County", 52.915
+"Daqing", 46.583333
+"Yaroslavl", 57.560666676667
+"Sredniiy", 52.91500001
+"Kazan", 55.86067
+"Komsomolsk-on-Amur", 50.605
+"Khabarovsk", 48.528
+"Irkutsk", 52.3678
+"Ramenskoe", 55.589
+"Gelendzhik", 44.55
+"Taganrog", 47.117
+"Neuchatel", 46.9575
+"Locarno", 46.1608
+"Fehraltorf", 47.3764
+"Lausanne", 46.5453
+"Triengen", 47.2267
+"Ust-Ilimsk", 58.116667
+"Ust-Kut", 56.85
+"Kavalerovo", 44.270556
+"Kirensk", 57.7667
+"St. Marys", 40.5553253
+"Wenatchee", 47.398
+"Wangerooge", 53.7828
+"Harlesiel", 53.7067
+"Oshkosh", 44.024983
+"Brest", 52.06
+"Ternopol", 49.31
+"Chernigov", 51.24
+"Lutsk", 50.6833
+"Benton Harbor", 42.1285833
+"Waukesha", 43.0410278
+"Thurles", 52.67888
+"Limerick", 52.659
+"Geiranger", 62.1
+"Zell am See", 47.2933
+"Greenwood", 42.4028889
+"Choibalsan", 48.1357
+"St-Augustin", 51.2117
+"Yenisehir", 40.255208
+"Çorlu", 41.13825
+"Sinop", 42.0158
+"Canakkale", 40.137722
+"Bonaventure", 48.0711
+"Chaoyang", 41.5381
+"Togiak Village", 59.0528
+"Port Heiden", 56.9591
+"King Cove", 55.1163
+"New Stuyahok", 59.4499
+"Igiugig", 59.324
+"Burgos", 42.357628
+"Leon", 42.589
+"Deering", 66.0696
+"Zarafshan", 41.6139
+"Tacheng", 46.6725
+"Hami", 42.8414
+"Sand Point", 55.315
+"Bella Coola", 52.3875
+"Pajala", 67.2456
+"Port Clarence", 65.2537
+"Apatity", 67.4633
+"Arctic Village", 68.1147
+"Tasiujaq", 58.6678
+"Puvirnituq", 60.0506
+"Noatak", 67.5661
+"Savoonga", 63.6864
+"Shishmaref", 66.2496
+"Ruby", 64.7272
+"Point Hope", 68.3488
+"Mekoryuk", 60.3714
+"Kivalina", 67.7362
+"St Mary's", 62.0605
+"Kaltag", 64.3191
+"Hooper Bay", 61.5239
+"Gambell", 63.7668
+"Atqasuk", 70.4673
+"Anvik", 62.6467
+"Anaktuvuk Pass", 68.1336
+"Altay", 47.866667
+"Null", 44.458656
+"Jan Mayen", 70.961111
+"Manzhouli", 49.566667
+"Gary", 41.6163
+"Brainerd", 46.398308
+"Chefornak", 60.149167
+"New York", 40.7505
+"Scotia NY", 42.85245555
+"Nizhnekamsk", 55.34
+"Bogovarovo", 58.8535
+"Greenland Ice Cap", 72.5795841916667
+"Volkel", 51.656389
+"Langeoog", 53.7425
+"Biel", 47.089167
+"Cherkassy", 49.416666
+"Gotland", 58.392393
+"Faro", 57.9521
+"Nikolayev", 47.0579
+"Logan", 41.791
+"Brigham City", 41.552
+"Malad City", 42.17
+"Ulyanovsk", 54.268299
+"Birrfeld", 47.4436
+"Prince Rupert", 54.3333
+"Ely", 47.824444
+"Grand Rapids MN", 47.211111
+"Thief River Falls", 48.065556
+"Eagle River", 45.932333
+"Minocqua - Woodruff", 45.927778
+"Ankeny", 41.691389
+"Berens River", 52.358889
+"Port Simpson", 54.566667
+"Interlaken", 46.6766
+"Kenmore", 47.7548
+"Inisheer", 53.0647
+"Maennlichen", 46.610833
+"Ostermundigen", 46.963
+"Strezhevoy", 60.716667
+"Cashel", 52.5158333
+"Oak Lawn", 41.7198242969588
+"Chicago", 41.948958067066
+"Gelendzik", 44.566666666667
+"Hartford", 41.76888
+"Stamford", 41.046937
+"Newark", 40.734722
+"Papa", 47.3636
+"Cuxhaven", 53.768612
+"Camp Douglas", 43.938956
+"Manistee", 44.2725
+"Frenchville", 47.285556
+"Jamestown", 42.153333
+"Mont-Tremblant", 46.409444
+"Devils Lake", 48.114444
+"Dickinson", 46.7975
+"Sidney", 47.706944
+"Chadron", 42.8375
+"Alliance", 42.053333
+"McCook", 40.206389
+"Glendive", 47.138611
+"Wolf Point", 48.094444
+"West Yellowstone", 44.688333
+"Vernal", 40.440833
+"McCall", 44.889722
+"Salmon", 45.123889
+"Friday Harbor", 48.521944
+"Eastsound", 48.708056
+"Anacortes", 48.498889
+"Astoria", 46.157972
+"Newport", 44.580361
+"Emmonak", 62.786111
+"Unalakleet", 63.888333
+"Kuparuk", 70.330833
+"Shageluk", 62.692222
+"Chuathbaluk", 61.579167
+"Nuiqsut", 70.21
+"Eek", 60.213611
+"Kasigluk", 60.873333
+"Kwethluk", 60.790278
+"Kwigillingok", 59.876389
+"Marshall", 61.8646418
+"Russian Mission", 61.775
+"Tuntutuliak", 60.335278
+"Ekwok", 59.356944
+"Koliganek", 59.726667
+"Levelock", 59.128056
+"Manokotak", 58.990278
+"Twin Hills", 59.074444
+"Chalkyitsik", 66.645
+"Eagle", 64.778056
+"Hughes", 66.039167
+"Huslia", 65.697778
+"Livingood", 65.531111
+"Minto", 65.143611
+"Nulato", 64.729444
+"Rampart", 65.507778
+"Tanana", 65.179556
+"Venetie", 67.008611
+"Beaver", 66.362222
+"Central", 65.573889
+"Shungnak", 66.888056
+"Brich Creek", 66.256708
+"Coldfoot", 67.251389
+"Park City", 40.659444
+"Arkalyk", 50.2395
+"Hamburg", 53.542369
+"Neujellingsdorf", 54.455802
+"Kirchheim-Teck", 48.3676
+"Angoon", 57.503611
+"Elfin Cove", 58.195278
+"Tenakee Springs", 57.779722
+"Pelican", 57.955278
+"Sitka", 57.515
+"Funter Bay", 58.254444
+"Excursion Inlet", 58.420556
+"Hoonah", 58.096111
+"Kake", 56.961389
+"Craig", 55.478889
+"Hollis", 55.481667
+"Metakatla", 55.131111
+"Thorne Bay", 55.688056
+"Hydaburg", 55.206389
+"Hyder", 55.903333
+"Point Baker", 56.351944
+"Port Protection", 56.328889
+"North Whale Pass", 56.116389
+"Chignik Lake", 56.255
+"Egegik", 58.185556
+"Chignik Lagoon", 56.311111
+"Chignik", 56.295556
+"Perryville", 55.906667
+"Pilot Point", 57.585393
+"South Naknek", 58.702222
+"Akhiok", 56.938611
+"Karluk", 57.566944
+"Larsen Bay", 57.535
+"Old Harbor", 57.218056
+"Ouzinkie", 57.922876
+"Port Lions", 57.885278
+"Lazy Bay", 56.899444
+"Amook Bay", 57.471389
+"Kitoi Bay", 58.190833
+"Moser Bay", 57.025556
+"Olga Bay", 57.161389
+"Port Bailey", 57.93
+"Port Williams", 58.49
+"Seal Bay", 58.166667
+"San Juan", 57.730278
+"West Point", 57.77
+"Zachar Bay", 57.55
+"Ambler", 67.106389
+"Buckland", 65.981667
+"Kiana", 66.975833
+"Kobuk", 66.912222
+"Noorvik", 66.8175
+"Selawik", 66.6
+"Brevig Mission", 65.331389
+"Elim", 64.615
+"Golovin", 64.550556
+"Teller", 65.240278
+"Wales", 65.6225
+"White Mountain", 64.689167
+"Council", 64.897778
+"Koyuk", 64.939444
+"St. Michael", 63.49
+"Shaktoolik", 64.371111
+"Stebbins", 63.515833
+"Tin City", 65.563056
+"Atka", 52.220278
+"Nikolski", 52.941667
+"Icy Bay", 59.968889
+"Yakataga", 60.081901
+"Alakanuk", 62.68
+"Nunam Iqua", 62.520556
+"Kipnuk", 59.933056
+"False Pass", 54.8475
+"Nelson Lagoon", 56.0075
+"Cold Bay", 56.006111
+"Klawock", 55.579167
+"Quinhagak", 59.755
+"Kotlik", 63.030556
+"Koyukuk", 64.875833
+"Scammon Bay", 61.845278
+"Nondalton", 59.966944
+"Pedro Bay", 59.782222
+"Nunapitchuk", 60.905833
+"Kongiganak", 59.960833
+"Nikolai", 63.010833
+"Takotna", 62.971944
+"Pilot Station", 61.934444
+"Akiak", 60.902778
+"Tuluksak", 61.096944
+"Grayling", 62.894444
+"Wainwright", 70.638056
+"Chenega", 60.077222
+"Chisana", 62.071111
+"Tok", 63.329444
+"Circle", 65.827778
+"Coffman Cove", 56.014722
+"Crooked Creek", 61.867778
+"Red Devil", 61.788056
+"Sleetmute", 61.700566
+"Stony River", 61.7875
+"Healy", 63.8675
+"Kake", 56.973056
+"Klawock", 55.554658
+"Lake Minchumina", 63.886111
+"Manley Hot Springs", 64.9975
+"St. George", 56.577222
+"Tatitlek", 60.8725
+"Ketchikan", 55.344444
+"Fox Harbour", 45.87
+"Natuashish", 55.913889
+"Postville", 54.910278
+"Kangiqsujuaq", 61.588611
+"Alma", 48.508611
+"Havre-Saint-Pierre", 50.281944
+"Rimouski", 48.478056
+"Tadoule Lake", 58.706111
+"Lac Brochet", 58.614167
+"South Indian Lake", 56.792778
+"Brochet", 57.889444
+"Little Grand Rapids", 52.045
+"Cross Lake", 54.610833
+"Red Sucker Lake", 54.167222
+"Rainbow Lake", 58.491389
+"Bonnyville", 54.304722
+"Nanaimo", 49.183333
+"Ganges", 48.85
+"Bedwell Harbour", 48.75
+"Qualicum Beach", 49.337222
+"Fort St. James", 54.397222
+"Boundary Bay", 49.073889
+"Langley Township", 49.101111
+"Bella Bella", 52.139722
+"Sechelt-Gibsons", 49.460556
+"Wekweeti", 64.190833
+"Brussels", 50.8
+"Fussen", 47.585
+"Bochum", 51.478506
+"Kaufbeuren", 47.874
+"Munich", 48.1408
+"Nuernberg", 49.446389
+"Augsburg", 48.3655
+"Mannheim", 49.479633
+"Essen", 51.451389
+"Lancaster", 40.05
+"Ardmore", 40.01
+"Iselin", 40.568
+"Portland", 45.529
+"Batagay", 67.648
+"Westport", 44.1871
+"Trenton", 40.21889
+"Aberdeen", 57.1436
+"Glasgow", 55.8622
+"Edinburgh", 55.952
+"Newcastle Upon Tyne", 54.9686
+"Leeds", 53.794
+"Manchester", 53.477
+"Liverpool", 53.405
+"London", 51.5284
+"Juneau", 58.571385
+"Seattle", 47.615884
+"Juneau", 58.335451
+"Skagway", 59.470896
+"Ketchikan ", 55.346327
+"Victoria", 48.429144
+"Ecuvillens", 46.754997
+"Andermatt", 46.63889
+"Wohlen bei Bern", 46.96694
+"Sveagruva", 77.9
+"Ny-Alesund", 78.9275
+"Kihnu", 58.148
+"Ruhnu", 57.784
+"Lleida", 41.727778
+"Ouessant", 48.458056
+"Montreal", 45.499722
+"Toronto", 43.645278
+"Bildudalur", 65.641389
+"Gjogur", 65.995278
+"Saudarkrokur", 65.731667
+"Selfoss", 63.929167
+"Inishmaan", 53.091944
+"Taldykorgan", 45.016667
+"Olgii", 48.991667
+"Lille", 50.563333
+"Vologda", 59.281667
+"Evensk", 61.921667
+"Olenyok", 68.514722
+"Saskylakh", 71.927778
+"Lensk", 60.719444
+"Iturup Island", 44.92
+"Okha", 53.583333
+"Arkhangelsk", 64.895833
+"Nizhneangarsk", 55.801667
+"Taksimo", 56.361667
+"Vanavara", 60.355
+"Aykhal", 65.959167
+"Yekaterinburg", 56.701667
+"Baykit", 61.676667
+"Biysk", 52.466667
+"Huesca", 42.080833
+"Hilversum", 52.226389
+"Colonsay", 56.0575
+"Coll", 56.633333
+"Pittsburgh", 40.3544
+"Tresco", 49.945556
+"Columbus", 40.0798
+"Kherson", 46.6758
+"Yarmouth", 43.8269
+"Wuerzburg", 51.93749
+"Mainz", 50.00829
+"Berlin", 52.475
+"Rheine", 52.27656
+"Aveiro", 40.72222
+"Hopsten", 52.3387
+"Chongjin", 41.801389
+"Uliastai", 47.712778
+"Bulgan", 48.854167
+"Ulaangom", 49.973333
+"Dasoguz", 41.764722
+"Provo", 40.21805555
+"Steamboat Springs", 40.51625
+"Kostroma", 57.7961
+"Yuryevets", 57.316667
+"Ozerny", 52.752919
+"Enkheluk", 52.500967
+"Khakusy", 55.365
+"London", 51.515833
+"Liskeard", 50.44708
+"Roscoff", 48.721816
+"Angmagssalik", 65.612222
+"Ketchikan", 55.778889
+"Fraser BC", 59.715517
+"Carcross YT", 60.17463
+"Olympia", 46.9694044
+"SARATOGA", 41.4448594
+"Morristown", 40.79935
+"Wangen-Lachen", 47.204805
+"Kineshma", 57.45000001
+"Nezhitino", 57.479444454444
+"Glasgow", 55.8652
+"London", 51.494999
+"Paris", 48.880931
+"Paris", 48.84
+"Tours", 47.385626
+"Courtelary ", 47.18611
+"Koszalin", 54.041
+"Lelystad", 52.4603
+"Whittier", 60.7772125
+"Soldotna", 60.4749583
+"London", 51.53
+"Amsterdam", 52.378333
+"Frejus", 43.416667
+"Detroit", 42.368097
+"Berlin", 52.52493
+"Amsterdam", 52.7873
+"Mezen", 65.878333
+"Arkhangelsk", 64.441667
+"Oneonta", 42.524722
+"Tulln", 48.318961
+"Dell", 44.7357483
+"Livingston-Montana", 45.6993889
+"Big Timber", 45.8063889
+"Holland", 42.7427778
+"London", 51.47
+"Venice", 45.4283
+"Tallinn", 59.4486
+"Helsinki", 60.1478
+"Linkenheim", 49.1417
+"Hilversum", 52.1919
+"New York", 40.7545
+"Texel", 53.1153
+"Das i Fontanals de Cerdanya", 42.3864
+"Stary Oskol", 51.33
+"Savona", 44.309654
+"Barcelona", 41.358901
+"Vigo", 42.241537
+"Southampton", 50.900976
+"Marseille", 43.343969
+"Nanaimo Station British Columbia", 49.163978
+"Victoria Station British Columbia", 48.428339
+"Vancouver BC", 49.289012
+"Seattle WA", 47.611241
+"New York", 40.639751
+"Krasnoyarsk", 56.179
+"Anchorage Alaska", 61.221749
+"Seward Alaska", 60.121586
+"Maidenhead", 51.501
+"Port Clinton", 41.5162703
+"Findley", 41.0120278
+"Niagara Falls", 43.108802
+"Deputatsky", 69.293
+"Burlington", 43.4425
+"Kaufbeuren", 47.885
+"Munich", 48.1408
+"Nurnberg", 49.446
+"Ebenhofen", 47.824
+"Augsburg", 48.3655
+"Biessenhofen", 47.851
+"Buchloe", 48.0411
+"Fussen", 47.585
+"Kempten", 47.724
+"Marktoberdorf", 47.78
+"Marktoberdorf", 47.777
+"Essen", 51.451389
+"Bochum", 51.478506
+"Koln", 50.9425
+"Mannheim", 49.471
+"Wycombe", 51.611667
+"Bembridge", 50.677778
+"Waterville", 45.0519
+"Chojna", 52.9394
+"Leuterschach", 47.75
+"Spearfish-South Dakota", 44.4811407
+"Knokke", 51.3222
+"Gdynia", 54.5797
+"Malbork", 54.026944
+"Lask", 51.551667
+"Miroslawiec", 53.395072
+"Poznan", 52.331719
+"Brampton", 43.7603
+"Zonguldak", 41.506111
+"Minot", 48.2361
+"Havre", 48.55457
+"Wishram", 45.6576
+"Salem", 44.9095
+"Batken", 40.0427
+"Lindau", 47.5489
+"Volkel", 51.656389
+"Hoogeveen", 52.7308
+"Deventer", 52.2447
+"Middelburg", 51.5122
+"Ameland", 53.4517
+"Saint-Cyr", 48.810278
+"Milwaukee", 43.1103889
+"Janesville", 42.62025
+"Hatfield", 51.765
+"Toronto", 43.655996
+"Montreal", 45.51527887
+"Novorossiysk", 44.4016
+"Kirovograd", 48.54
+"Roitzschjora", 51.5778
+"Heidelberg", 49.393333
+"Shchyolkovo", 55.878333
+"Sevastopol", 44.691431
+"Berlin", 52.366667
+"Deurne", 51.5173
+"Hamar", 60.8181
+"Frya", 61.5472
+"Elverum", 60.88
+"Republic", 48.7182058
+"Basel", 47.547531
+"Stockholm", 59.3233
+"Helsingborg", 56.0419
+"New York", 40.75616
+"Helsinki", 60.163056
+"Lockport", 41.606326
+"Urbana", 40.144979
+"Strasbourg Neudorf", 48.5548
+"Nannhausen", 50
+"Mureck", 46.70778
+"Guessing", 47.05932
+"Oshawa", 43.9228
+"Recklinghausen", 51.6472
+"Farila", 62.03
+"Lahr", 48.3693
+"Plattling", 48.780147
+"Osterhofen Niederbayern", 48.7
+"Passau", 48.574167
+"Regensburg", 49.1419
+"Regensburg", 49.022
+"Treuchtlingen", 49.04
+"Cochstedt", 51.855833
+"Wurzburg", 49.7999
+"Chicago-Wheeling", 42.1142897
+"Kelso", 46.118
+"Benesov", 49.4427
+"Put-in-Bay", 41.3521
+"Chessy", 48.869722
+"Port Townsend", 48.0314
+"Lynden", 48.9558961
+"Port Townsend", 48.0538086
+"Kerch", 45.372869
+"Boston", 42.35
+"Ottawa", 45.4164
+"Belleville", 44.1793
+"Edmonton", 53.5789
+"Churchill", 58.76775
+"Winnipeg", 49.8889
+"Kingston", 44.2572
+"Sterling", 40.6153136
+"Rawlins", 41.8055975
+"Mackenzie British Columbia", 55.29944
+"Caldwell", 40.8752222
+"Yuryevets", 57.3106
+"KIEV", 50.1403
+"Bamberg", 49.911
+"Ingolstadt", 48.7777
+"Kiev", 50.603611
+"Landshut", 48.5133333333333
+"Itzehoe", 53.9944
+"NEW YORK", 40.767681
+"Frankfurt", 50.1070257990375
+"Amsterdam", 52.3466365904832
+"Prague", 50.0909636578274
+"Vienna", 48.1866480486625
+"Prague", 50.0826892098189
+"Vienna", 48.1965754250116
+"Venice", 45.4417738709625
+"Florence", 43.7766651171349
+"Rome", 41.9004811137748
+"London", 51.532519492138
+"RADOM", 51.231978
+"Calgary", 51.1031
+"Golden", 51.2992
+"Revelstoke", 50.9667
+"Farmingdale", 40.7288
+"Allstedt", 51.3806
+"Amberg", 49.43
+"Peine", 52.3237
+"Peine", 52.4025
+"Seattle", 47.5985
+"Tula", 54.142208
+"Milwaukee", 42.940556
+"Seattle", 47.6005
+"Bremerton", 47.5619
+"McKinley Park", 63.732757
+"Anchorage", 61.1866382
+"Prospect Creek", 66.814167
+"Welzow", 51.5756
+"Hudson NY", 42.2913
+"Sasovo", 54.3539
+"Wheeling", 40.175
+"Vancouver", 49.2739
+"Mestia", 43.06848
+"Samsun", 41.1641
+"Kingston", 44.256944
+"Dorval", 45.448611
+"Brockville", 44.6003
+"Brockville", 44.5919
+"Verdun", 45.8208
+"Ajaccio", 45.4069
+"Oldbury", 52.55
+"Rotenburg Wuemme", 53.1283
+"Wipperfuerth", 51.1242
+"Osnabrueck", 52.2864
+"Ballenstedt", 51.7458
+"Hasenmoor", 53.915
+"Ganderkesee", 53.0361
+"Nienburg Weser", 52.7097
+"Damme", 52.4875
+"Duelmen", 51.78
+"Obermehler", 51.2678
+"Hodenhagen", 52.7611
+"Grube", 54.2444
+"Toender", 54.9297
+"Celle", 52.6872
+"Uelzen", 52.9839
+"Hamm", 51.6897
+"Luesse", 52.1411
+"Bad Oeynhausen", 52.2208
+"Brilon", 51.4025
+"Bad Pyrmont", 51.9667
+"Cuxhaven", 53.7672
+"Koethen", 51.7211
+"Sankt Michaelisdonn", 53.9781
+"Salzgitter", 52.1544
+"Karlshoefen", 53.3328
+"Oldenburg", 53.0689
+"Rinteln", 52.1753
+"Muenster", 51.9444
+"Sankt Peter-Ording", 54.3089
+"Luechow", 53.0161
+"Scharlibbe", 52.7094
+"Burg", 52.2417
+"Bad Neuenahr", 50.5578
+"Bad Duerkheim", 49.4731
+"Troutdale", 45.54937
+"Hillsboro", 45.540394
+"New York", 40.7126
+"Leverkusen", 51.0153
+"Wershofen", 50.451667
+"Tengiz", 46.303056
+"Tengiz", 46.303056
+"Bend", 44.0945556
+"Christmas Valley", 43.2365314
+"Burns", 43.5919167
+"Prineville", 44.2869939
+"Red Bluff", 40.1506944
+"Lakeview", 42.1611111
+"Tillamook", 45.4182419
+"Ontario", 44.0193611
+"The Dalles", 45.6185556
+"Pembroke", 45.864399
+"Suffield", 50.2666701
+"Wainwright", 52.830601
+"Wainwright", 52.830601
+"Targu Mures", 46.3201
+"Sibiu", 45.4649
+"Sibiu", 45.4649
+"Stupino", 54.786667
+"Timisoara", 46.436
+"Timisoara", 45.471009
+"Cleveland", 41.50225
+"Charelvoix", 45.3047778
+"Pferdsfeld", 49.857778
+"Mykines", 62.1021
+"Roche Harbor", 48.608056
+"Blakely Island", 48.56025
+"Rosario", 48.645556
+"Westsound", 48.617778
+"Friday Harbor", 48.537222
+"Big Bay", 50.4
+"Cornwall", 45.092778
+"Bosschenhoofd", 51.3317
+"St.Stephan", 46.497442
+"Brasov", 45.4153
+"Deva", 45.5153
+"Dezmir", 46.4643
+"Morrisville", 44.535
+"Como", 45.4853
+"Vellezzo Bellini", 45.283855
+"Beaver Island", 45.721111
+"Baikonur", 45.6183
+"Moscow", 55.7557
+"Washington County", 41.349722
+"Block Island", 41.168056
+"Atmautluak", 60.866667
+"Atmautluak", 60.866667
+"Atmautluak", 60.866667
+"Nightmute", 60.471111
+"Toksook Bay", 60.541389
+"Tununak", 60.575556
+"Goodnews Bay", 59.1175
+"Newtok", 60.939167
+"Ittoqqortoormiit", 70.485278
+"Vinnitsa", 49.2433
+"Gent", 51.0352
+"Bruges", 51.1972
+"Bruges", 51.1972
+"Angers", 47.464714
+"La Romaine", 50.257222
+"Kegaska", 50.195833
+"Black Tickle", 53.47
+"Mountain Home", 43.1316111
+"Trail", 49.055556
+"Patricia Bay", 48.65
+"Arctic Bay", 73.006389
+"Hope Bay", 68.163889
+"Burqin", 48.221111
+"Taunton", 41.8744017
+"Plymouth", 41.9090278
+"North Kingstown", 41.5971389
+"Mansfield", 42.0001331
+"Norwood", 42.1905278
+"Westfield", 42.1579472
+"Willimantic", 41.7440278
+"Montgomery", 41.5099884
+"Harrisburg", 40.2171389
+"Marshfield", 42.09825
+"Danbury", 41.3715353
+"Nashua", 42.78175
+"Lawrence", 42.7171944
+"Oxford", 41.4785556
+"Fitchburg", 42.5541111
+"New Philadelpha", 40.4701667
+"Shaftesbury", 50.9672
+"Poltava", 49.34261
+"Calais", 50.967536
+"Dover", 51.126876
+"Turukhansk", 65.46
+"Bor", 61.34
+"East Troy", 42.7971667
+"Kolpashevo", 58.3333
+"Keewaywin", 52.991111
+"Marathon", 48.755278
+"Hearst", 49.713889
+"Hornepayne", 49.193056
+"Kirkland Lake", 48.210278
+"Manitouwadge", 49.083889
+"Wawa", 47.966944
+"Manitowaning", 45.8425
+"Slate Falls", 51.13
+"Collingwood", 44.449167
+"Brantford", 43.131389
+"Morsbach", 49.1606
+"Strasbourg", 48.585068
+"St. Petersburg", 59.951443
+"One Hundred Mile House", 51.3833
+"108 Mile Ranch", 51.4412
+"Glasgow", 55.5141
+"Warsaw", 52.451111
+"Buffalo", 42.883512
+"Jixi", 45.30611
+"Seattle", 47.5985
+"Gimli", 50.628056
+"Matheson Island", 51.732222
+"Matheson Island", 51.732222
+"Matheson Island", 51.732222
+"Tura", 64.33
+"Beloyarsky", 63.683056
+"Ypenburg", 52.040376
+"Racine", 42.7605
+"Gera", 50.8814
+"Gera", 50.880023
+"Saint-Petersburg", 60.200059
+"Otaru", 43.1894444
+"Noboribetsu", 42.46867
+"Arnhem", 52.057222
+"Schaffen", 51.002846
+"Blomberg", 51.930401
+"Buckeburg", 52.279764
+"Tacoma", 47.267944
+"STROE", 52.198138
+"Oldebroek", 52.406503
+"WERL", 51.566907
+"SZEGED", 46.252761
+"BERLIN", 52.437517
+"HOEVENEN", 51.304111
+"HARREVELD", 51.981127
+"TELGTE", 51.944556
+"Balzers", 47.076667
+"Vieste", 41.885277
+"Cork", 51.400377
+"Island of Gogland", 60.011662
+"Punitz-Guessing", 47.14833
+"Khmeinitskiy", 49.366
+"High River", 50.3333
+"Hazleton", 40.989167
+"Bob Quinn Lake", 56.58
+"Kaluga", 54.55
+"Reykjahlid", 65.6
+"Stockholm", 59.33
+"Uppsala", 59.858333
+"Rotterdam", 51.924444
+"Praha", 50.11
+"Bonn", 50.731944
+"Copenhagen", 55.672778
+"Salzburg", 47.813056
+"Antwerp", 51.217222
+"Lone Rock", 43.211667
+"Phillips", 45.705
+"Monroe", 42.616389
+"Joliet", 41.517778
+"Peru", 41.351944
+"Jackson", 42.260556
+"Furstenwalde", 52.393889
+"Eberswalde", 52.827222
+"Bedford", 40.086111
+"Philadelphia", 40.1375
+"Richland Center", 43.2833575
+"Viroqua", 43.5793603
+"Baraboo", 43.5217843
+"Apple River", 42.4664444
+"Sturtevant", 42.70325
+"Burlington", 42.6907171
+"East Stroudsburg", 41.0358717
+"Sterling", 41.3473569
+"Middletown", 41.431912
+"Lock Haven", 41.1357778
+"Grove City", 41.1460278
+"Youngstown", 41.1304722
+"Wadsworth", 41.0031572
+"Ashland", 40.9029722
+"Monroeville", 40.4526389
+"Zelienople", 40.8019722
+"Somerset", 40.0388708
+"Youngstown", 40.9617953
+"Braceville", 41.2111675
+"Lorain-Elyria", 41.3442778
+"Geneva", 41.7778322
+"Cleveland", 41.5175
+"Dunkirk", 42.4933353
+"Hamburg", 42.7008925
+"Trenton", 40.2139444
+"Linden", 40.6174472
+"Morgantown", 40.1570414
+"Angola", 41.6396983
+"Plymouth", 41.3651307
+"Warsaw", 41.2746944
+"Van Wert", 40.8638295
+"Bucyrus", 40.7815556
+"Marshall", 42.2511932
+"Batavia", 43.03175
+"Seneca Falls", 42.8835647
+"Stormville", 41.5769708
+"Plainville", 41.6893333
+"Bryan", 41.4673056
+"Scatsta", 60.433
+"Buchan Alpha", 57.9039
+"Buchan Alpha", 57.9039
+"Claymore", 58.4494
+"FPSO Anasuria", 57.1524
+"BP Bruce", 58.44
+"Buchan Alpha", 57.9039
+"Buzzard", 56.8
+"Clyde", 56.45
+"Cormorant Alpha", 61.2333
+"Forties Alpha", 57.7167
+"Forties Charlie", 57.7167
+"Fulmar", 56.48
+"Gannet Alpha", 57.3
+"Montrose Alpha", 57.4506
+"Tern", 61.3333
+"Berlin", 52.507222
+"Frankfurt Oder", 52.336944
+"Paris", 48.844722
+"Paris", 48.876944
+"Paris", 48.856389
+"Berlin", 52.51
+"London", 51.508056
+"New York", 40.714167
+"Chicago", 41.883611
+"Chicago", 41.860278
+"Milan", 45.463611
+"Montreal", 45.508611
+"Toronto", 43.653056
+"Berlin", 52.548611
+"Saarmund", 52.3089943
+"Lansing", 41.5349167
+"Tomah", 43.9762222
+"Pont Sur Yonne", 48.288333
+"St Florentin Cheu", 47.981389
+"Saulieu", 47.238611
+"Olten", 47.343611
+"Buochs", 46.9725
+"Quinto", 46.513056
+"Lodrino", 46.29499
+"Roudnice nad Lebem", 50.407222
+"Usti Nad Labem", 50.698889
+"Mauterndorf", 47.131667
+"Notsch Im Gailtal", 46.580833
+"Karlsruhe", 49.097778
+"Weinheim", 49.567222
+"Meaux", 48.928611
+"Chateau-Thierry", 49.066944
+"Coldwater", 41.9335691
+"Wilkes-Barre", 41.2973074
+"Willoughby", 41.6840278
+"Uummannaq", 70.4047
+"Civitavecchia", 42.6
+"Bayannur", 40.926389
+"Lewiston", 44.0484728
+"Inowroclaw", 52.829444
+"Pruszcz Gdansk", 54.248056
+"Florence", 43.9828168
+"Berlin", 52.475556
+"Glenview", 42.090556
+"Tomah", 43.975278
+"Beijing", 40.50310135
+"Drummond Island", 46.0093114
+"Lewiston", 44.8065278
+"Gladwin", 43.9705893
+"Lowell", 42.95392
+"South Haven", 42.3511944
+"Schaumburg", 41.9893408
+"Marshfield", 44.6368797
+"Wisconsin Rapids", 44.3606456
+"Clinton", 41.83075
+"Langenfeld", 51.141663
+"Beverly", 42.584141
+"Priob\\'e", 62.5461
+"Moscow", 55.511667
+"Trois Rivieres", 46.351667
+"Somerville", 40.6259908
+"Eastport", 44.9101111
+"Keokuk", 40.4599078
+"Swans Island", 44.1653889
+"Perth", 56.439722
+"Caernarfon", 53.104167
+"Grefrath", 51.333889
+"Offenburg", 48.4711
+"Oberwolfach", 48.3167
+"Karlsruhe", 49.0135
+"Lichtenwalde", 50.8833
+"Karlsruhe", 49.0135
+"Holzhau", 50.7333334
+"Porto", 41.1667
+"Bad Herrenalb", 48.7976817
+"St. Paul", 44.9346225
+"Soderhamn", 61.261667
+"Newcastle", 53.073056
+"Zurich", 47.369
+"Segeletz", 52.826667
+"Segovia", 40.889233
+"Ust Kamchatsk", 56.238556
+"Oconomowoc", 43.1388947
+"Kozyrevsk", 56.09
+"Dikson", 73.517807
+"Bogande", 48.329498
+"Bantry", 51.668598
+"Caherciveen", 51.933334
+"Kent", 41.1513889
+"Ust-Tsylma", 65.434722232222
+"Springfield MA", 42.106
+"Amherst MA", 42.375
+"Bar Harbor ME", 44.39917
+"Yarmouth NS", 43.833227
+"Montreux", 46.435833
+"London", 51.5326
+"Stevenage", 51.902
+"Peterborough", 52.5748
+"St. Ignace MI", 45.866405
+"Mackinac Island MI", 45.848801
+"YUR'EVETS", 57.338582
+"Whittlesford", 52.104
+"Gorno-Altaysk", 51.966667
+"Gryzliny", 53.3629
+"Fond du Lac", 43.7711667
+"Waupaca", 44.33325
+"Stevens Point", 44.5451356
+"Mys Shmidta", 68.868301
+"Honuu", 66.450859
+"Newberry", 46.311199
+"Forest Lake", 45.2477456
+"Hannover", 52.329035
+"Peenemunde", 54.157778
+"Goraszka", 52.1104
+"Urumqi", 43.7809
+"Turpan", 43.151
+"Galion", 40.7533889
+"Oban", 56.4124
+"Memmingen", 47.9878
+"Ulm", 48.4
+"Aachen", 50.7667
+"Liege", 50.6333
+"Brussels", 50.8411
+"Wyk", 54.411
+"Qabala", 40.826667
+"Zaqatala", 41.562222
+"Lake Placid", 44.264444
+"Long Lake", 43.9750617
+"Khandyga", 62.471
+"Yakutsk", 62.0626
+"Yuzhno-Kurilsk", 43.5739
+"Wishram", 45.6576
+"Lima", 40.707478
+"Samjiyon", 41.907167
+"Geiranger Fjord", 62.474976458
+"Beaver Falls", 40.7724722
+"Steubenville", 40.3602179
+"Renton", 47.4931389
+"Bromont", 45.290833
+"Heber", 40.4818056
+"Hamburg", 53.552776
+"Rhinebeck", 41.969833
+"Duxford", 52.09083
+"Blankenburg", 51.7946
+"Sidney", 41.10167
+"Baishan", 42.088056
+"Chongjin", 41.4297
+"Lublin", 51.239333
+"Guelph", 43.563889
+"Geulph", 43.563889
+"Chengde", 40.965755
+"Mali Losinj", 44.3357
+"RUDNIKI", 50.884722
+"Williamson", 43.2347904
+"Fairoaks", 51.348056
+"Boulder", 40.039444
+"Neustadt-Glewe", 53.364779
+"Bischofswiesen", 47.62313
+"Warnemuende", 54.181438
+"GOETSENHOVEN", 50.7817
+"Wildenrath", 51.113721
+"Bremgarten", 47.902779
+"Birburg", 49.945278
+"Toul", 48.779999
+"Ust-Nera", 64.568056
+"Vysoke Myto", 49.5537
+"Spa", 50.4824981689453
+"Namur", 50.4879989624023
+"Hasselt", 50.9700012207031
+"Pontiac", 42.667
+"Pecs", 46.070833
+"Neuwied", 50.432008
+"Castelnuovo di Garfagnana", 44.116464
+"Portovenere", 44.0519359
+"Amsterdam", 52.338841
+"Budapest", 47.500497
+"Zagreb", 45.804289
+"Keene", 72.270833
+"Glasgow", 48.4211069
+"Rochester", 51.351944
+"Den Haag", 52.081667
+"Paris", 48.880931
+"Venlo", 51.364722
+"Monchengladbach", 51.196
+"Utrecht ", 52.089167
+"Albany", 42.641389
+"Tacoma", 47.242733
+"Healy", 63.7306
+"Wood Buffalo", 57.223889
+"Aare", 63.398779
+"Villach", 46.618333
+"Krakow", 50.065556
+"Vienna", 48.175
+"Rome", 41.900833
+"Naples", 40.8525
+"London", 51.5284
+"Veliky Ustyug", 60.788333
+"Iowa City", 41.639244
+"Turpan", 42.942328
+"Windom", 43.9134017
+"Yabuli Town", 44.4653
+"Longview", 44.6608611
+"Sortavala", 61.736099
+"Valaam", 61.37115
+"Bodaibo", 57.5137
+"Zhytomyr", 50.270556
+"Mozyr", 51.981944
+"Paluknys", 54.483056
+"Grindelwald", 46.35106
+"Grindelwald", 46.3506
+"Yankton", 42.8711
+"Beccles", 52.438333
+"Brawdy", 51.880462
+"Redhill", 51.213612
+"Bad Gastein", 47.1
+"London", 51.4964
+"Jiagedaqi District", 50.375
+"Hollister", 54.013333333333335
+"Enstone", 51.928167
+"Portoferrario", 42.49
+"Pittsburgh", 40.4406
+"Ann Arbor", 42.132274
+"Myrdal", 60.4418
+"Flam", 60.5017
+"Leikanger", 61.1351
+"Gryphon FPSO", 59.35
+"Reichenbach im Kandertal", 46.61298
+"Volosovo", 55.0683
+"Lensk", 60.723
+"Fairbanks", 64.5109
+"Denali", 63.43083
+"Talkeetna", 62.18934
+"Anchorage", 61.1318
+"Whittier", 60.774174
+"Khamar-Daban", 51.994
+"Khamar-Daban", 51.964
+"Khamar-Daban", 51.964
+"Khamar-Daban", 52.111
+"Khamar-Daban", 52.111
+"Baikal", 51.758
+"Kavalerovo", 44.273
+"Barentsburg", 78.1006
+"Piramida", 78.6528
+"Velikiye Luki", 56.381667
+"Boston", 42.3478
+"Burlington", 43.3408282
+"Niagra Falls", 43.1088
+"Niagara Falls", 43.1135
+"Novosibirsk", 55.077
+"Mar-Kuel", 57.2712
+"Kodinsk", 58.285
+"Nuernberg", 49.392222
+"Stein", 49.406324
+"Dippenricht", 49.253972
+"Lagoon Cove", 50.6
+"Endelage", 55.75616
+"St. Johann in Tirol", 47.517222
+"Echo Bay", 50.45
+"Kingcome", 50.58
+"Thalmaessing", 49.064444
+"Taganrog", 47.246
+"Buffalo", 42.8783
+"Fort McMurray", 57.055599
+"Genova", 44.40725
+"Elkhart", 41.719444
+"Cochrane", 49.106667
+"Srednekolymsk", 67.2748
+"Salt Lake City", 40.762778
+"Ansbach", 49.216
+"Venice", 45.48189
+"Essex", 42.199
+"Cork", 51.400377
+"Saint-Petersburg", 59.890529
+"Gogland Island", 60.011662
+"Seattle", 47.613801
+"Klatovy", 49.418327
+"Sheboygan", 43.7696
+"Ephraim", 45.1354167
+"Chara", 56.912765
+"Herning", 56.197224
+"Schleissheim", 48.239167
+"Verden", 52.965278
+"Nittenau", 49.2225
+"Brussels", 50.84548
+"Udine", 46.04
+"Bratislava", 48.08
+"Kolosovka", 56.2752
+"Ekibastuz", 51.5723
+"Znamenskoe", 57.1523
+"Tevriz", 57.5243
+"Bestobe", 52.4986
+"Stepnogorsk", 52.3575
+"Karabogaz", 41.5397
+"Adamovka", 51.4929
+"Kvarkeno", 52.078333
+"Nynashamn", 58.9
+"Rodby", 54.65
+"Puttgarden", 54.5
+"Belfast", 54.6178
+"Stranraer", 54.902
+"Eupen", 50.3743
+"Osnabrueck", 52.272778
+"Hannover", 52.366667
+"Queensbury", 43.341222
+"Ballston Spa", 43.050722
+"Mechanicville", 42.893133
+"Fostoria", 41.1908333
+"Fryeburg", 43.9911389
+"Coeur d'Alene", 47.7743056
+"Danville", 40.1996944
+"Varberg", 57.107118
+"Toronto", 43.645278
+"Windsor", 42.3254
+"Dearborn", 42.312222
+"Stoke-on-Trent", 53
+"Tobermory", 45.2578121
+"South Baymouth", 45.5564479
+"Eden Prairie", 44.4938
+"Vienna", 48.196667
+"York Mills", 43.745
+"Neumuenster", 54.079069
+"Marshall", 44.4469
+"Barrie-Orillia", 44.487778
+"Midland", 44.684722
+"Markham", 43.935278
+"Haliburton", 45.110833
+"Lindsay", 44.364722
+"Saint Catherines", 43.191667
+"Edenvale", 44.438889
+"Orillia", 44.683333
+"Holland Landing", 44.089444
+"Chatham", 42.306111
+"Parry Sound", 45.253889
+"Hanover", 44.158056
+"Bubovice", 49.974422
+"Rakkestad", 59.3975
+"Johnstown", 40.3297222
+"Snohomish WA", 47.904451
+"Morsbach", 49.160592
+"Istanbul", 41.0410805
+"Istanbul", 40.989305
+"Kastamonu", 41.316944
+"Elstree", 51.4807
+"Sandtoft", 53.559444
+"Hurtsbourne Tarrant", 51.264449
+"Dieppe", 49.933616
+"Newhaven", 50.790385
+"Aberdeen", 57.13967
+"Lerwick", 60.15
+"Torshavn", 62.0057
+"Seydisfjordur", 65.26016
+"Glasgow", 55.8622
+"Eugene", 44.055062
+"Lincolnville", 43.995278
+"Champaign", 40.1155
+"Delft", 52.006667
+"Nizhny Novgorod", 56.1906
+"Vangso", 59.13333
+"Moscow", 55.776
+"Perm", 58.0203
+"Novosibirsk", 55.0188
+"Ulan Bator", 47.92
+"Irkutsk", 52.3122
+"Umea", 63.817
+"Sundsvall", 62.4077
+"Boston", 42.366235
+"Rockport", 42.6558328
+"Salem", 42.5249995
+"Salem", 42.522421
+"Boston", 42.36024
+"Joliet", 41.5244
+"New Lenox", 41.485
+"Chicago", 41.875
+"London", 51.5031
+"London", 42.9819
+"Gloucester", 42.61666666666667
+"Kitchener", 43.44968
+"Quebec", 46.8174
+"Johnstown", 40.3296
+"Enumclaw", 47.1956569
+"Tarentum", 40.6035463
+"New York", 40.752726
+"New York", 40.847301
+"Newburyport", 42.7953611
+"Brooks Camp", 58.556539
+"Kulik Lake", 58.96591
+"Glasgow", 55.858
+"London", 51.5284
+"London", 51.5031
+"Moscow", 55.7764
+"Omsk", 54.9833
+"Krasnoyarsk", 56.0167
+"Naushki", 50.3827
+"Erlian", 43.65
+"Moscow", 55.442
+"St. Petersburg", 60.08738
+"Minaki", 50.349812
+"Severobajkalsk", 55.4209
+"Vanino", 49.093
+"Holmsk", 47.040278
+"Nogliki", 51.816667
+"Markovo", 64.665278
+"Seymchan", 62.919167
+"Zyryanka", 65.736389
+"Susuman", 62.767222
+"OYMYAKON", 63.45
+"Ust-Maya", 60.358056
+"Aldan", 58.603056
+"Olekminsk", 60.399167
+"Vitim", 59.457778
+"Pellworm", 54.536431
+"Tynda", 55.1512
+"Tommot", 58.966667
+"Etretat", 49.701
+"Le Havre", 49.4901
+"Weimar", 50.983333
+"Xinyuan", 43.433056
+"Port alsworth", 60.208281
+"Belfort", 47.6556015
+"Nordfjordur", 65.131897
+"Bursa", 40.2332993
+"Rochester", 43.2840556
+"Port Oceanic", 60.2083333
+"La Ferte Alais", 48.497799
+"Ocean Shores", 46.5995
+"Packwood", 46.3625
+"Fort Bridger", 41.236
+"Prosser", 46.128
+"Chehalis", 46.4062
+"Mattawa", 46.4124
+"Lebanon", 44.3179
+"Evanston", 41.1649
+"Endicott", 42.0471
+"Baku", 40.483
+"Caspian Sea", 40.283
+"Didsbury", 51.710833
+"Sundre", 51.774722
+"Depew", 42.9074
+"South Bend", 41.678
+"Michigan City", 41.7133
+"Chicago", 41.8837
+"Cleveland", 41.5034
+"Tamchy", 42.3527
+"Crystal", 45.0343
+"New York", 40.756667
+"Allentown", 40.605604
+"Binghamton", 42.101438
+"Syracuse", 43.0767
+"Utica", 43.104167
+"Clinton", 43.048889
+"Dublin", 53.3463
+"Killarney", 52.5089
+"Williamsport", 41.239395
+"Wilkes-Barre", 41.243958
+"Hazelton", 40.954055
+"Lewisburg", 40.963889
+"Madison", 40.757028
+"Maplewood", 40.731111
+"Harrisburg", 40.26223
+"Poughkeepsie", 41.706516
+"Summit", 40.716556
+"Madrid", 40.4075
+"Corvallis", 44.5067
+"Phantom Lake", 49.859473
+"Tuzla", 43.9841995
+"Madrid", 40.472272
+"Bilbao", 43.25947
+"Barcelona", 41.288436
+"Barcelona", 41.392186
+"Barcelona", 41.379359
+"Figueres", 42.265065
+"Scranton", 41.410253
+"New Brunswick", 40.496432
+"Trenton", 40.218839
+"Philadelphia", 40.032679
+"White Plains", 41.032549
+"Southeast", 41.413179
+"Anacortes", 48.50728
+"Friday Harbor", 48.535673
+"Morristown", 40.796957
+"Seattle", 47.609178
+"Whittier", 60.776566
+"Valdez", 61.123976
+"Bainbridge Island", 47.622237
+"Ganges", 48.85
+"Pender Harbour", 49.616667
+"Mansons Landing", 50.066667
+"Port McNeill", 50.575556
+"Sullivan Bay", 50.883333
+"Deer Harbor", 48.618397
